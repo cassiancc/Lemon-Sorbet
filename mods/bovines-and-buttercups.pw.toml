@@ -1,0 +1,13 @@
+name = "Bovines and Buttercups (Mooblooms)"
+filename = "bovinesandbuttercups-2.2.5+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BDg6nMn3/versions/9OF4UCVP/bovinesandbuttercups-2.2.5%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "4671de0a1c56b04349eae7f78739b9d7f07088488866dd885949437c70816803f961b3b8a7b87a5ed7e37bdc92424e8c2b8aa02a1b6e8b3ea0a100f12ccc322d"
+
+[update]
+[update.modrinth]
+mod-id = "BDg6nMn3"
+version = "9OF4UCVP"

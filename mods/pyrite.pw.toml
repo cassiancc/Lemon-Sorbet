@@ -1,0 +1,13 @@
+name = "Pyrite"
+filename = "pyrite-0.15.9+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qO4ozPoe/versions/LEwsBHcY/pyrite-0.15.9%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d71b12c1cb006a4b0d6aecd487c6777260d42c3b352c0dc1031db2b8bd04ea792fd2fc4be4509c7a177715fbf90d5a996e4f3aadaa66e1889b0ad77f39f14762"
+
+[update]
+[update.modrinth]
+mod-id = "qO4ozPoe"
+version = "LEwsBHcY"

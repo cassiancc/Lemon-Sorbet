@@ -1,0 +1,13 @@
+name = "Useful Spyglass"
+filename = "usefulspyglass-neoforge-1.21.1-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XwvK7Tzg/versions/LGhexVqZ/usefulspyglass-neoforge-1.21.1-0.7.0.jar"
+hash-format = "sha512"
+hash = "b9ce9f74ddf69c59dc3047991eef04f7d7ee8a48846271c5945642cfa1e231f429a13503f3db5e6db204efc1f253ab6b15528f58680cde86e8fb73e9de8a89aa"
+
+[update]
+[update.modrinth]
+mod-id = "XwvK7Tzg"
+version = "LGhexVqZ"

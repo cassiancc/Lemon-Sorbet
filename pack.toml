@@ -1,0 +1,13 @@
+name = "Lemon Sorbet"
+author = "cassiancc"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a805d3f5c493c8c80fff7aae56da2b6cc9e2c2d491e07f26de27ee61cabb2110"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.138"
