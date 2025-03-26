@@ -1,13 +1,13 @@
 name = "Rapscallions and Rockhoppers (Penguins)"
-filename = "rapscallionsandrockhoppers-neoforge-2.0.3+1.21.1.jar"
+filename = "rapscallionsandrockhoppers-fabric-2.0.3+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9pGITjpO/versions/8ccAtmJk/rapscallionsandrockhoppers-neoforge-2.0.3%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/9pGITjpO/versions/J0SDZoVj/rapscallionsandrockhoppers-fabric-2.0.3%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "3e936f3ba7bba5603b0372ca29764c02794679b1f35baf19bf30b0c6a9d005f3fc75e0e4ef6f68adf111a01b456c6034d11f8470a2b2b6311599c896a0cf3f60"
+hash = "d854faa128bcc19fba8fea0aa05f9e9c3bbcd2c411031e48da8b7805ae67bec38e181555235f000f7828264ede412f51c984202c4da17d632ebc28dfa123bbea"
 
 [update]
 [update.modrinth]
 mod-id = "9pGITjpO"
-version = "8ccAtmJk"
+version = "J0SDZoVj"

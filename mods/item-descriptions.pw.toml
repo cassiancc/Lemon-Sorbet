@@ -1,15 +1,13 @@
 name = "Item Descriptions"
+filename = "item-descriptions-fabric-1.15.2+1.21.1.jar"
 side = "client"
-filename = "item-descriptions-1.11+1.21.jar"
-
-[update.modrinth]
-mod-id = "UaizcMKP"
-version = "KEOf5Mq4"
 
 [download]
+url = "https://cdn.modrinth.com/data/UaizcMKP/versions/QZfN5lcp/item-descriptions-fabric-1.15.2%2B1.21.1.jar"
 hash-format = "sha512"
-url = "https://cdn.modrinth.com/data/UaizcMKP/versions/KEOf5Mq4/item-descriptions-1.11%2B1.21.jar"
-hash = "662e68b6ba3057cf68d104547b6381f157e3071edf3e5763482f5441aa43c44632d2a8961a931efcdf71726d5105dfff190b48fba3ed109ed1ed2f5916cea4ef"
+hash = "e289eb2cf1ea38a1e2540dda3e3799621a5f89b29bd2aec1e4359e43836926115a9e52d724ca4711794456e4b88cb5fee6f51ee0a0a6ec30f8292c4bd43f9d8f"
 
-[option]
-description = "This mod adds unique descriptions for all blocks, items, and mobs - built in a way that makes it easy to add modded content."
+[update]
+[update.modrinth]
+mod-id = "UaizcMKP"
+version = "QZfN5lcp"

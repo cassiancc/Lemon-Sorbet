@@ -1,0 +1,13 @@
+name = "Templates 2"
+filename = "templates-mod-2.5.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cL15qXuP/versions/ukCGjyv6/templates-mod-2.5.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "bf3fca998ccf4f3f3a486a45535289e27387160b374d3b553d5b60206559a228f2c3db9bef43c789ff149f71460f325d2b3b0f1a12bcd4f4618d5511261728bb"
+
+[update]
+[update.modrinth]
+mod-id = "cL15qXuP"
+version = "ukCGjyv6"
