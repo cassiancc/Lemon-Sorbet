@@ -1,0 +1,13 @@
+name = "\"Cool\" Font"
+filename = "Cool Font 4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eDFQz8H2/versions/hi2t8Kby/Cool%20Font%204.zip"
+hash-format = "sha512"
+hash = "e036fa11c7cb2bdc00e4b171e0aa07a351b18ad752bd1513ad731614688b93c1ffdeb29b9ab2a9ac3ba9d8fe7934e1f08fd3644ec4e77f18903a7d13a30b8576"
+
+[update]
+[update.modrinth]
+mod-id = "eDFQz8H2"
+version = "hi2t8Kby"
