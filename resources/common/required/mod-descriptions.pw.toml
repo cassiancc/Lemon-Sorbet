@@ -1,0 +1,13 @@
+name = "Mod Descriptions"
+filename = "mod-descriptions-v4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DkF7ssGR/versions/vYkw9V17/mod-descriptions-v4.zip"
+hash-format = "sha512"
+hash = "6426368594142a50232147fd3048373939fe6b43f4aa1f4e230fcb5176a3781fe4ecb4e47cf9768ae570b144e99351298cf7f906fde5a37f57ab51560ce2b0e1"
+
+[update]
+[update.modrinth]
+mod-id = "DkF7ssGR"
+version = "vYkw9V17"

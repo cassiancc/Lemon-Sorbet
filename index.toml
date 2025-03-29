@@ -41,6 +41,11 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
+file = "mods/advancements-reloaded.pw.toml"
+hash = "3b8da4468f2109ea49d43317aa11f9cf9c1408adaca30d76a70dff3a6385c43b"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "71385a965a8391b709fc68784d7c7933eb837048cf0649d3a20a065258fe3e8c"
 metafile = true
@@ -261,6 +266,11 @@ hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
 metafile = true
@@ -361,8 +371,18 @@ hash = "e5f87e1e6fe6f42c25ccaf88d935e231b9c0aedce9795dc98e7a218b9af6de40"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "86ff9b67d90f046045619aa571df7bad909e480711c5d8b8967e3efca84ad16a"
+metafile = true
+
+[[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp-updated.pw.toml"
+hash = "065a6c92f489bce0ef6b27f0b05acde22920c5f5f15414171890ec5ea375fe16"
 metafile = true
 
 [[files]]
@@ -401,6 +421,30 @@ hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
 metafile = true
 
 [[files]]
+file = "resources/common/required/LemonSorbet/assets/minecraft/lang/en_us.json"
+hash = "aaec6cc53e815b236971297f71c649755c1b1ce6134b9c7d14bd47023808a78a"
+
+[[files]]
+file = "resources/common/required/LemonSorbet/assets/minecraft/models/block/ancient_debris.json"
+hash = "9ea6cffe9bbddf3a5ecd13c7684001835a2838b18f0e54a03081eb8aee4ea54c"
+
+[[files]]
+file = "resources/common/required/LemonSorbet/assets/minecraft/textures/block/ancient_debris_side.png"
+hash = "8bb12d0287ae41508bc1da9e573e9852e2c2583b9ddc61c4d64aabc9a9cb44ea"
+
+[[files]]
+file = "resources/common/required/LemonSorbet/assets/minecraft/textures/block/ancient_debris_top.png"
+hash = "123e91c6586220d921c4d81b9308be743ec006b3dfc6756cbb0c660fbdd7afec"
+
+[[files]]
+file = "resources/common/required/LemonSorbet/assets/minecraft/textures/block/end_stone.png"
+hash = "a34eba1313eb84b54547000cf48312b13def8c8fa41637abc211c252b0aeaec4"
+
+[[files]]
+file = "resources/common/required/LemonSorbet/pack.mcmeta"
+hash = "f0a21315b604245630257e1464135554e1cf1e2c5ab6ea854b1b57008f98327d"
+
+[[files]]
 file = "resources/common/required/VanillaTweaks_r903271_MC1.21.x.zip"
 hash = "b4f9bb3d4063170941f2e969785c661e1e8c0bc6bbcd1dd7b96c6959915634c8"
 
@@ -412,6 +456,11 @@ metafile = true
 [[files]]
 file = "resources/common/required/javaui.pw.toml"
 hash = "e8ead33563ef7139ad57a80479bc556d587b8e8b6bd92511c2b0b9e4863bac60"
+metafile = true
+
+[[files]]
+file = "resources/common/required/mod-descriptions.pw.toml"
+hash = "91d1bac89a84d51adc8bdd51b1076bf1acda10948d7a566cc7e02805deee3c3b"
 metafile = true
 
 [[files]]
