@@ -1,0 +1,13 @@
+name = "Quark Vanilla Resource Overrides"
+filename = "Quark VRO.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O0Rt4G7h/versions/sQ2mHaPX/Quark%20VRO.zip"
+hash-format = "sha512"
+hash = "408d8764ed342d05d965cdf335ce09565a5c3411a85487f97cf090ce87a0ceafe74ecdeb005eb6fbf767d38187c02b0b2438d89d8146a9f9d6161e845e6eca70"
+
+[update]
+[update.modrinth]
+mod-id = "O0Rt4G7h"
+version = "sQ2mHaPX"
