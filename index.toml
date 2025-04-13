@@ -66,6 +66,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "b0e24748243ebef6cf35d7f4c523e002693da0697cf94897d6b1a72fcd160b2c"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "bdaedb87300594cb776756286d7f615cba17a460e2b1e63de9f6881f44cb277e"
 metafile = true
@@ -146,6 +151,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/comfortable-campfires.pw.toml"
+hash = "db5e3847a52ce76e3d31ff529f891ba10fb0b778e0c66ac263042ec3dfeee68d"
+metafile = true
+
+[[files]]
 file = "mods/connected-doors.pw.toml"
 hash = "1d912783e5a27dfd863ee3228ca0f907631b7ff30c0ea6fc4764968ca1e3341a"
 metafile = true
@@ -188,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "7a488f0a685a3c77e90bb8ab013ffa9d92cc7a895925d8f8629d355ab6b8c07c"
+metafile = true
+
+[[files]]
+file = "mods/enchiridion.pw.toml"
+hash = "84cef0cc404ab0c736b480a3d26c8f73c449129db6293ae4c72b2498d2a2ae13"
 metafile = true
 
 [[files]]
@@ -277,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "be9311441de69b4b5670cccb5c817e6662361290705c62b8600380e2d92784f9"
+hash = "f50eeca79dcf567d621ec86967b62c2ae736fefe32d4e4a8120e07706c57e083"
 metafile = true
 
 [[files]]
@@ -488,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
+metafile = true
+
+[[files]]
+file = "mods/weird-wares.pw.toml"
+hash = "6b9dca97f63507a9e5513f66bc7aed91cf27731066ff64090c9463610df2af4a"
 metafile = true
 
 [[files]]

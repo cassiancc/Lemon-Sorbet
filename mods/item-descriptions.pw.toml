@@ -1,13 +1,13 @@
 name = "Item Descriptions"
-filename = "item-descriptions-fabric-2.0.0+1.21.1.jar"
+filename = "item-descriptions-fabric-2.1.0+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UaizcMKP/versions/D4o5xwQr/item-descriptions-fabric-2.0.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/UaizcMKP/versions/UKTcKebO/item-descriptions-fabric-2.1.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "830a65a9b35bdc6830e0d852ef62b65006d9f2a331b02383287b86bd8c959baba69c716c0f721e80751651f8e14534c83adbe8574bdbc3f892cecdcb31a16cb7"
+hash = "2a526d99c20b79128bdc1f2ac2d158cf78a06b2de9baaa0446690c556540f1963857142e8741ccb8f365b187449fefb49dd2d67486e522c2e291713916a1fbb0"
 
 [update]
 [update.modrinth]
 mod-id = "UaizcMKP"
-version = "D4o5xwQr"
+version = "UKTcKebO"
