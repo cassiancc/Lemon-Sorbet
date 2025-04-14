@@ -1,0 +1,12 @@
+name = "Mob Filter"
+side = "both"
+filename = "mobfilter-0.11.2+1.21.1.jar"
+
+[update.modrinth]
+mod-id = "gRn1FzwR"
+version = "gBCTQ0w8"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/gRn1FzwR/versions/gBCTQ0w8/mobfilter-0.11.2%2B1.21.1.jar"
+hash = "dcb651a642d5beccff6089fc71ad037446a84c6e483bc3e54ce95e87b269cb9b27ff9adab142526233ea62e3fcf2de02e72af600e10a251dbf24f8f0c6b659fd"

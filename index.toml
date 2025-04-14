@@ -81,6 +81,16 @@ hash = "ac5b35d1cd0b1039dbc3a4c1070a6dd17b5c352a7d133e22463b67c47e273617"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
+metafile = true
+
+[[files]]
+file = "mods/bind.pw.toml"
+hash = "fa16f033b730c71f003e127fdb18f9f234630b3a4ecc26a1e7ff72a3d7032c13"
+metafile = true
+
+[[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
 hash = "16321a199f9e074555f8550b7dcbc81711fde5422982abd084c87e0898314621"
 metafile = true
@@ -292,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "f50eeca79dcf567d621ec86967b62c2ae736fefe32d4e4a8120e07706c57e083"
+hash = "82e3008edb502e103fe9a58b552c4112ac180634d338190ac68a517b8a9ca53c"
 metafile = true
 
 [[files]]
@@ -316,6 +326,11 @@ hash = "b41a9d602a2885f672ef02b1426b4d65c17fd34229f40ab265d16e8b5ebc6894"
 metafile = true
 
 [[files]]
+file = "mods/linkart-refabricated.pw.toml"
+hash = "d3f594ed5e00fb7d16979fb2dfef853a9d3c2f91605574aad7d0b1513bd92fb2"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
@@ -333,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
+metafile = true
+
+[[files]]
+file = "mods/mobfilter.pw.toml"
+hash = "d0aec719ffbc2d9b51ff70cca54efcda3b65808118ef79538238841d9ef18bdb"
 metafile = true
 
 [[files]]
@@ -363,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "79a034d9dc8a2cb62a9fcd64c2871e081291a264822da07675a3ee749b04b6eb"
-metafile = true
-
-[[files]]
-file = "mods/my-nethers-delight-refabricated.pw.toml"
-hash = "fea3c7b0d03ac4eeaf70802158faae156f640dec2b66b1ab9e5527ba19a1150e"
 metafile = true
 
 [[files]]
