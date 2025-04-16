@@ -41,6 +41,62 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
+file = "config/fancymenu/assets/minecraft.png"
+hash = "b3ce8e9a810e9aa51625c29ce93217405a3057158d92e0f864948923ff8244eb"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "c6fc738223b7aedb444a2e883985c86eb7863b621e0abfee8e76c0afe88b3139"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "708aab31c355f109ebd14ad26431f29f547b529afcb708c9b122199e8ec81d8d"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "1e9bf52650798e3a455579e4889626927ca6d378de4e5edc662a4f7501cdc41a"
+
+[[files]]
+file = "config/lemonade.json"
+hash = "f863ca1641c62296f63afc1e4284c9487a56836688aa4e4b5e70f7b49d02f6ae"
+
+[[files]]
+file = "config/mobfilter.json5"
+hash = "991b798082d43985cf9190d0bf189f3c45e7a4774e095b741992a1807df1551c"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "116372ad10a16b82bb4d677e1dde1c1cc67a430d96501fad04c4ad14e4d3f66d"
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "3b8da4468f2109ea49d43317aa11f9cf9c1408adaca30d76a70dff3a6385c43b"
 metafile = true
@@ -321,6 +377,11 @@ hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "311bbb0ecc590e059723d16b79d1547cc0306df4ba97cbd9fd1ffd4dd2f67e3d"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "b41a9d602a2885f672ef02b1426b4d65c17fd34229f40ab265d16e8b5ebc6894"
 metafile = true
@@ -456,6 +517,11 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
+metafile = true
+
+[[files]]
 file = "mods/rounded_mod.pw.toml"
 hash = "976bfd8d4cdd96995adf4fd60659eabfcecee721c83c11119ad5287d0d1ed2d2"
 metafile = true
@@ -468,11 +534,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "86ff9b67d90f046045619aa571df7bad909e480711c5d8b8967e3efca84ad16a"
-metafile = true
-
-[[files]]
-file = "mods/simple-resource-loader.pw.toml"
-hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
@@ -511,6 +572,11 @@ hash = "7e80608eb4d7abb46a4c9ee5d193805caddec1afaf2da22ca227be990878f97d"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
 file = "mods/useful-spyglass.pw.toml"
 hash = "2bc3e01251efff5c25c7f54d8f02ca7a9e6249511c06999df322a3b8a118bd09"
 metafile = true
@@ -546,54 +612,35 @@ hash = "1bd0ba1128e6ae3f926298c2ffe33180cca75362fae3bd92146d43977297f01c"
 metafile = true
 
 [[files]]
-file = "resources/common/required/LemonSorbet/assets/minecraft/lang/en_us.json"
-hash = "aaec6cc53e815b236971297f71c649755c1b1ce6134b9c7d14bd47023808a78a"
-
-[[files]]
-file = "resources/common/required/LemonSorbet/assets/minecraft/models/block/ancient_debris.json"
-hash = "9ea6cffe9bbddf3a5ecd13c7684001835a2838b18f0e54a03081eb8aee4ea54c"
-
-[[files]]
-file = "resources/common/required/LemonSorbet/assets/minecraft/textures/block/ancient_debris_side.png"
-hash = "8bb12d0287ae41508bc1da9e573e9852e2c2583b9ddc61c4d64aabc9a9cb44ea"
-
-[[files]]
-file = "resources/common/required/LemonSorbet/assets/minecraft/textures/block/ancient_debris_top.png"
-hash = "123e91c6586220d921c4d81b9308be743ec006b3dfc6756cbb0c660fbdd7afec"
-
-[[files]]
-file = "resources/common/required/LemonSorbet/assets/minecraft/textures/block/end_stone.png"
-hash = "a34eba1313eb84b54547000cf48312b13def8c8fa41637abc211c252b0aeaec4"
-
-[[files]]
-file = "resources/common/required/LemonSorbet/pack.mcmeta"
-hash = "f0a21315b604245630257e1464135554e1cf1e2c5ab6ea854b1b57008f98327d"
-
-[[files]]
-file = "resources/common/required/VanillaTweaks_r903271_MC1.21.x.zip"
+file = "resourcepacks/VanillaTweaks_r903271_MC1.21.x.zip"
 hash = "b4f9bb3d4063170941f2e969785c661e1e8c0bc6bbcd1dd7b96c6959915634c8"
 
 [[files]]
-file = "resources/common/required/coolfont.pw.toml"
+file = "resourcepacks/coolfont.pw.toml"
 hash = "2adffdf6bacc2d4c50c955d46becd3cc21c019f85f958af42577d4ccad671031"
 metafile = true
 
 [[files]]
-file = "resources/common/required/javaui.pw.toml"
+file = "resourcepacks/javaui.pw.toml"
 hash = "e8ead33563ef7139ad57a80479bc556d587b8e8b6bd92511c2b0b9e4863bac60"
 metafile = true
 
 [[files]]
-file = "resources/common/required/mod-descriptions.pw.toml"
+file = "resourcepacks/mod-descriptions.pw.toml"
 hash = "91d1bac89a84d51adc8bdd51b1076bf1acda10948d7a566cc7e02805deee3c3b"
 metafile = true
 
 [[files]]
-file = "resources/common/required/peeves.pw.toml"
+file = "resourcepacks/peeves.pw.toml"
 hash = "6230bc3576d6281c16e202180c92c143f4d7981f5290c92c014802ccf13f41a1"
 metafile = true
 
 [[files]]
-file = "resources/common/required/quark-vro.pw.toml"
+file = "resourcepacks/quark-vro.pw.toml"
 hash = "840977878aa78d7c52be23ec42bf07fc014ef72795c1290a04443cb0fc4197ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimagined.pw.toml"
+hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
 metafile = true

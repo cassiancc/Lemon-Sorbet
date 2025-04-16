@@ -1,0 +1,18 @@
+{
+  "search_containers": true,
+  "campfires_start_lit": false,
+  "stoves_start_lit": false,
+  "tools_sticks_start_fires": true,
+  "tools_durability_multiplier": 2,
+  "tools_speed_multiplier": 1.5,
+  "vanilla_clean_maps": true,
+  "vanilla_leather_horse_armour_is_lightweight": true,
+  "vanilla_piglins_zombify": false,
+  "tooltips_enable": true,
+  "vanilla_nether_portals": false,
+  "tooltips_icon_damage": "diamond_sword",
+  "tooltips_icon_speed": "feather",
+  "tooltips_icon_armor": "iron_chestplate",
+  "tooltips_icon_toughness": "diamond_chestplate",
+  "lemon_sorbet": true
+}
