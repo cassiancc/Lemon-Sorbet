@@ -17,6 +17,10 @@ file = "config/bedrockify/bedrockifyMixins.json"
 hash = "c6fb903902100acbb12ba6ac8805ab8eed2720ff52c2bf59f8681e8d93895c1d"
 
 [[files]]
+file = "config/blockhighlight-new.json"
+hash = "b9a209a17cfdf8f6a2afdb82172a1cbbe86a3925c7da3f30af9bc34a4199713a"
+
+[[files]]
 file = "config/charm-client.toml"
 hash = "c6dba5bdd60afe61aecd9d1ea61776c3209f23d4b36f28c3d67fd0482e042337"
 
@@ -411,6 +415,11 @@ hash = "0117b995c692b37ded24aaa1da83cd116bc0c4dd2cf45b74c6290138a7c864cd"
 metafile = true
 
 [[files]]
+file = "mods/inverted-tag-entries.pw.toml"
+hash = "ced9068328191496f16f24a529d376405542b866d94a9c795ddc788eeaa12e45"
+metafile = true
+
+[[files]]
 file = "mods/item-descriptions.pw.toml"
 hash = "82e3008edb502e103fe9a58b552c4112ac180634d338190ac68a517b8a9ca53c"
 metafile = true
@@ -445,6 +454,10 @@ file = "mods/lemonade-fabric-0.1.3+1.21.1.jar"
 hash = "c1d3235810fc2b1c6dfd3ed7a1422d03007c819cc4dac57b96fed3061348cf1f"
 
 [[files]]
+file = "mods/lemonade-fabric-0.1.4+1.21.1.jar"
+hash = "e53dd171d68019274ca95bde34e3157cddf0903d5a739887eceffaac7d93e434"
+
+[[files]]
 file = "mods/linkart-refabricated.pw.toml"
 hash = "b07154881eb5b69a6bd64ca68a90fab70bd665a3f5e6bdf7c719ddf6ffd05564"
 metafile = true
@@ -452,11 +465,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
-metafile = true
-
-[[files]]
-file = "mods/lmft.pw.toml"
-hash = "aad3b2ec6a8d5d0490e271ba54164d0ea465a9a1fe82cab4a3b9a09faacbb58d"
 metafile = true
 
 [[files]]

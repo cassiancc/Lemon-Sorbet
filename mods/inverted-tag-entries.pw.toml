@@ -1,0 +1,7 @@
+name = "Inverted Tag Entries"
+filename = "ite-fabric-1.21.1-1.1.0+fork.jar"
+
+[download]
+url = "https://github.com/cassiancc/inverted-tag-entries/releases/download/v1.1.0%2B1.21.1/ite-fabric-1.21.1-1.1.0+fork.jar"
+hash-format = "sha256"
+hash = "54561543112c2671bcfc1782f89f0838a1362addae3ac3499e9114e15ccb149e"
