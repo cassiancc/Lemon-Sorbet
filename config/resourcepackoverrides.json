@@ -1,0 +1,15 @@
+{
+	"schema_version": "2",
+	"default_packs": [
+		"file/Stay_True_1.21.zip",
+		"file/VanillaTweaks_r903271_MC1.21.x.zip",
+		"file/Quark VRO.zip",
+		"file/mod-descriptions-v4.zip",
+		"file/JavaUI.zip",
+		"file/Cool Font 4.zip",
+		"lemonade/lemon_sorbet"
+	],
+	"default_overrides": {
+		"force_compatible": true
+	}
+}

@@ -14,5 +14,12 @@
   "tooltips_icon_speed": "feather",
   "tooltips_icon_armor": "iron_chestplate",
   "tooltips_icon_toughness": "diamond_chestplate",
-  "lemon_sorbet": true
+  "lemon_sorbet": true,
+  "potions_awkward_potion_reagent": "minecraft:crimson_fungus",
+  "potions_fuel": "minecraft:fire_charge",
+  "attributes_enable": false,
+  "attributes_attack_damage": 1.0,
+  "attributes_movement_speed": 0.1,
+  "attributes_block_interaction_range": 4.5,
+  "attributes_entity_interaction_range": 3.0
 }

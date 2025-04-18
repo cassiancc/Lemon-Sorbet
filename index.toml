@@ -94,7 +94,7 @@ hash = "1e9bf52650798e3a455579e4889626927ca6d378de4e5edc662a4f7501cdc41a"
 
 [[files]]
 file = "config/lemonade.json"
-hash = "f863ca1641c62296f63afc1e4284c9487a56836688aa4e4b5e70f7b49d02f6ae"
+hash = "ea0bf81f09c828b0284194286582204a03f95da642156cc5e7c4af5f08b48247"
 
 [[files]]
 file = "config/mobfilter.json5"
@@ -415,6 +415,10 @@ hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
 metafile = true
 
 [[files]]
+file = "mods/lemonade-fabric-0.1.3+1.21.1.jar"
+hash = "c1d3235810fc2b1c6dfd3ed7a1422d03007c819cc4dac57b96fed3061348cf1f"
+
+[[files]]
 file = "mods/linkart-refabricated.pw.toml"
 hash = "b07154881eb5b69a6bd64ca68a90fab70bd665a3f5e6bdf7c719ddf6ffd05564"
 metafile = true
@@ -661,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r903271_MC1.21.x.zip"
-hash = "b4f9bb3d4063170941f2e969785c661e1e8c0bc6bbcd1dd7b96c6959915634c8"
+hash = "7aa0230d89ed9e6dd489986dd2933a5dc0fcdf59cc74d6cb87e7b56be889e4cf"
 
 [[files]]
 file = "resourcepacks/coolfont.pw.toml"
@@ -676,11 +680,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mod-descriptions.pw.toml"
 hash = "91d1bac89a84d51adc8bdd51b1076bf1acda10948d7a566cc7e02805deee3c3b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/peeves.pw.toml"
-hash = "6230bc3576d6281c16e202180c92c143f4d7981f5290c92c014802ccf13f41a1"
 metafile = true
 
 [[files]]
