@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
+file = "config/bedrockify/bedrockifyClient.json"
+hash = "301895475c0a768b36da5d3c7f83e87de7813dbd5591845357700e57bc52a2fa"
+
+[[files]]
+file = "config/bedrockify/bedrockifyCommon.json"
+hash = "1d0c761352a8cda4cfe5679520d89c5649f36067db1bd8f6722cc34ba4438123"
+
+[[files]]
+file = "config/bedrockify/bedrockifyMixins.json"
+hash = "c6fb903902100acbb12ba6ac8805ab8eed2720ff52c2bf59f8681e8d93895c1d"
+
+[[files]]
 file = "config/charm-client.toml"
 hash = "c6dba5bdd60afe61aecd9d1ea61776c3209f23d4b36f28c3d67fd0482e042337"
 
@@ -58,7 +74,11 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "4e80b67e2680007d292cf3a025bf1009a7a6f272df506c1372685ca48650d820"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -74,11 +94,11 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "708aab31c355f109ebd14ad26431f29f547b529afcb708c9b122199e8ec81d8d"
+hash = "5e62b5925f86468a2720485f23663ca1dfdc6641fcd5f4545cb488ee621f7cbd"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
@@ -103,6 +123,18 @@ hash = "991b798082d43985cf9190d0bf189f3c45e7a4774e095b741992a1807df1551c"
 [[files]]
 file = "config/modmenu.json"
 hash = "116372ad10a16b82bb4d677e1dde1c1cc67a430d96501fad04c4ad14e4d3f66d"
+
+[[files]]
+file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
+hash = "4bd96f6b5cdbb149fc7107df4e8da067dd1a0184396de2f1477f70971afaeca2"
+
+[[files]]
+file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
+hash = "4bd96f6b5cdbb149fc7107df4e8da067dd1a0184396de2f1477f70971afaeca2"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "822d4ff99465dd5be6383fe0e16c6f30c6129c5e405b478d73f8fad1bc844bec"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
