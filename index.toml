@@ -113,6 +113,10 @@ file = "config/item_obliterator.json5"
 hash = "1e9bf52650798e3a455579e4889626927ca6d378de4e5edc662a4f7501cdc41a"
 
 [[files]]
+file = "config/itemstackpromax.toml"
+hash = "fbad92a74217c0d37ef9d0718ad06ca7d3fe5fc32b9dc5efc8576a0aa9f164b3"
+
+[[files]]
 file = "config/lemonade.json"
 hash = "ea0bf81f09c828b0284194286582204a03f95da642156cc5e7c4af5f08b48247"
 
@@ -307,11 +311,6 @@ hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
-file = "mods/enchiridion.pw.toml"
-hash = "d8ebe6457462185cb95afb20dd3e1270b4ba0de29bb49efd409189c783a4f81a"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "6e046a0ced37b978d8bf74aa48653822489348c2e65d33e40b93be55763c983f"
 metafile = true
@@ -501,6 +500,11 @@ hash = "425301cd23244c238ac2681623ccdc5d7a7cbef51c71c0ad2fa6fbc7caee61de"
 metafile = true
 
 [[files]]
+file = "mods/more-chest-variants-lieonlion.pw.toml"
+hash = "98205cc88a2f7dd80ff812095b48fd916b6907f4a02cb8183725391fbe8d7bfa"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
@@ -566,8 +570,17 @@ hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
 metafile = true
 
 [[files]]
+file = "mods/pyrite-fabric-0.16.0.alpha.3+1.21.1.jar"
+hash = "b4128a901b507d5ec22075a169077e13210e3519ab70b7f39814e4cd89d73138"
+
+[[files]]
 file = "mods/pyrite.pw.toml"
 hash = "1abd095c85ceac3cc328ecc5ac181dabed125052c0d3a5a078a0702c4f69f968"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+hash = "6ab87b71d361542e4f8389c08fe17f0e92c203dfb1e6c5a44607001e9b5a7eb4"
 metafile = true
 
 [[files]]
