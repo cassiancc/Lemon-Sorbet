@@ -1,13 +1,12 @@
 name = "Default Components"
+side = "both"
 filename = "default-components-1.0.0-alpha.6+1.21.jar"
-side = "server"
 
-[download]
-url = "https://cdn.modrinth.com/data/ReIHZWEq/versions/LN7frPPW/default-components-1.0.0-alpha.6%2B1.21.jar"
-hash-format = "sha512"
-hash = "4ac103c02e5c04379ae5b6f4644fb629dd72c99908b12ccf7615f9d8ea6a4f480a36be7a170eda85dc7b019ab39d8fec194bd617aa7dc851153ae07d7e88aaa0"
-
-[update]
 [update.modrinth]
 mod-id = "ReIHZWEq"
 version = "LN7frPPW"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/ReIHZWEq/versions/LN7frPPW/default-components-1.0.0-alpha.6%2B1.21.jar"
+hash = "4ac103c02e5c04379ae5b6f4644fb629dd72c99908b12ccf7615f9d8ea6a4f480a36be7a170eda85dc7b019ab39d8fec194bd617aa7dc851153ae07d7e88aaa0"

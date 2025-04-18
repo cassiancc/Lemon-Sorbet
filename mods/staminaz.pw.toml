@@ -1,0 +1,13 @@
+name = "StaminaZ"
+filename = "stamina-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XzdAOdOJ/versions/Wkd64cUQ/stamina-1.0.1.jar"
+hash-format = "sha512"
+hash = "158e634530f3c14a031460872f64a61b31803f40faefacda39bfd3edf66a19bf06fba400ea981b838e5f478d9d3c93403e73215e935405a434e2a7fd895185d5"
+
+[update]
+[update.modrinth]
+mod-id = "XzdAOdOJ"
+version = "Wkd64cUQ"

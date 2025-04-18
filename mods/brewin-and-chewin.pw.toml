@@ -1,13 +1,13 @@
 name = "Brewin' And Chewin'"
-filename = "BrewinAndChewin-fabric-4.2.3+1.21.1.jar"
+filename = "BrewinAndChewin-fabric-4.2.5+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hIu9KJTT/versions/bqLfk08J/BrewinAndChewin-fabric-4.2.3%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/hIu9KJTT/versions/X5WlADtK/BrewinAndChewin-fabric-4.2.5%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "3b08bd755df7f480409d3fa11a77e7aa169c36f0fe8c2b30f1798908354514f2a01bfe8ee1a02bb949efd3826bace0ba16b94caeedd609afde0aa73e59f53381"
+hash = "d7a727b8e6463f99653bedecf18dc62de9d932416e05580ed17e3f976d304b460aac65c6505df0107a7af932a0fdf364cc10479bee26c7fffdfb4a58a3f21401"
 
 [update]
 [update.modrinth]
 mod-id = "hIu9KJTT"
-version = "bqLfk08J"
+version = "X5WlADtK"

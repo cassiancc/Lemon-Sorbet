@@ -1,0 +1,13 @@
+name = "Throwable Fireballs"
+filename = "throwable-fireballs-1.0.2-1.21.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bjX80Jqu/versions/T6ZaxFmP/throwable-fireballs-1.0.2-1.21.2.jar"
+hash-format = "sha512"
+hash = "42bb3cdfc1c75c1867165168820367710feb86cb928cc07bd508fff0e5df0f2ba512f4336ad42760e695cab26f5d747211474020131e969ba5dbf26feb4dbdca"
+
+[update]
+[update.modrinth]
+mod-id = "bjX80Jqu"
+version = "T6ZaxFmP"

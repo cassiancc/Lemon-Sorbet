@@ -1,0 +1,13 @@
+name = "Hearty Meals"
+filename = "heartymeals-1.21-r5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SDrTYSvS/versions/kd4u2hPI/heartymeals-1.21-r5.jar"
+hash-format = "sha512"
+hash = "5259727a78e5322905187b488f3537271c2aa430f78f21da3c00b4d9664e475e7c9b17b04f92fa6578c40ef5cfff05763bb8a84cd6cbb5a6fdbea2fafc7bb146"
+
+[update]
+[update.modrinth]
+mod-id = "SDrTYSvS"
+version = "kd4u2hPI"
