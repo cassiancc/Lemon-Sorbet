@@ -276,6 +276,11 @@ hash = "e74117882357e5665631dec329bce153c78ea1d428b3b5405483099289d88b89"
 metafile = true
 
 [[files]]
+file = "mods/custom-block-highlight.pw.toml"
+hash = "e7b3748a4ff84c69e18a5d3a1e820a6f8dc13af74d2aaa183abb4aff7e9adfaa"
+metafile = true
+
+[[files]]
 file = "mods/default-components.pw.toml"
 hash = "7f29e7045c8f35a0dd898beddc7b73cb47b8e4f23697c48f849edf8449dcc331"
 metafile = true

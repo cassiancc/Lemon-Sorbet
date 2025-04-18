@@ -1,0 +1,13 @@
+name = "Custom Block Highlight"
+filename = "blockhighlight-1.21.1-2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eps2maQC/versions/1a97z6tS/blockhighlight-1.21.1-2.5.jar"
+hash-format = "sha512"
+hash = "f39f1828d239a6dfc773d49f9125237a3ae5991490ff3a4790952f3ffb8bd698f7ffc73ae16bdfad7975192ef549833a08c605d4b9c741f8b62d887edaef5543"
+
+[update]
+[update.modrinth]
+mod-id = "Eps2maQC"
+version = "1a97z6tS"
