@@ -134,7 +134,7 @@ hash = "4bd96f6b5cdbb149fc7107df4e8da067dd1a0184396de2f1477f70971afaeca2"
 
 [[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "4bd96f6b5cdbb149fc7107df4e8da067dd1a0184396de2f1477f70971afaeca2"
+hash = "b9bf90aaede654a9af17e7910b0965443252d7e0c17553dd2ba483e253d1b56b"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -346,8 +346,8 @@ hash = "8bef8d23da6d792dc203c08face506976f0f4d8666e7c0a32e1386c61659ff1f"
 metafile = true
 
 [[files]]
-file = "mods/fallingleavesforge.pw.toml"
-hash = "2467c6382fe14f9e16195d4ebd88b6570d42b2f18f0f28d3a1c8618e5176b7de"
+file = "mods/fallingleaves.pw.toml"
+hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
 metafile = true
 
 [[files]]
@@ -619,6 +619,11 @@ hash = "182afe15a756cf249744d3a55d89fe463ae2dde77956977541ecc6d9ea6cd0fb"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
@@ -631,11 +636,6 @@ metafile = true
 [[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
 hash = "cc847dd2065c190d971c837f01b57894edd6b5ef17e7c84b4b3c146364a009ab"
-metafile = true
-
-[[files]]
-file = "mods/staminaz.pw.toml"
-hash = "40be6affd281f61ed6ee6c91bfcf7388e830ef8a5c1caaeef85393ea5cb52b0b"
 metafile = true
 
 [[files]]
