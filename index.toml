@@ -25,6 +25,10 @@ file = "config/charm-common.toml"
 hash = "8370ffc3217673c373a2fc6e44681053c147382f0d4e8e6f499d39efa39ce53a"
 
 [[files]]
+file = "config/emi.css"
+hash = "cd840c001cb56789badda3cb318cc737e045004ea9617d24ecd65099664738f1"
+
+[[files]]
 file = "config/fabrication/block_logo.ini"
 hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
 
@@ -129,12 +133,8 @@ file = "config/modmenu.json"
 hash = "116372ad10a16b82bb4d677e1dde1c1cc67a430d96501fad04c4ad14e4d3f66d"
 
 [[files]]
-file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
-hash = "4bd96f6b5cdbb149fc7107df4e8da067dd1a0184396de2f1477f70971afaeca2"
-
-[[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "b9bf90aaede654a9af17e7910b0965443252d7e0c17553dd2ba483e253d1b56b"
+hash = "fd9a94837831a106e880d04a4e1128537872a17c4ca5970459658f773defbce3"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -183,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
-metafile = true
-
-[[files]]
-file = "mods/bind.pw.toml"
-hash = "fa16f033b730c71f003e127fdb18f9f234630b3a4ecc26a1e7ff72a3d7032c13"
 metafile = true
 
 [[files]]
@@ -276,6 +271,11 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/creeperconfetti+.pw.toml"
+hash = "e74117882357e5665631dec329bce153c78ea1d428b3b5405483099289d88b89"
+metafile = true
+
+[[files]]
 file = "mods/default-components.pw.toml"
 hash = "7f29e7045c8f35a0dd898beddc7b73cb47b8e4f23697c48f849edf8449dcc331"
 metafile = true
@@ -298,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "8d0bde383406174b9d427916a20d538c33afd06c09f22b8a6f96830ebecfe227"
-metafile = true
-
-[[files]]
-file = "mods/effective.pw.toml"
-hash = "2a421f249e7022255938fafdebf4a9d6490d62aecbabd48a9e9a3e52aacd4d0b"
 metafile = true
 
 [[files]]
@@ -426,11 +421,6 @@ hash = "8e3cd40defdfde944f066f1dfdb3cbed9b2b7cb4599c12ac571ac8e07e290d56"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
 metafile = true
@@ -545,6 +535,11 @@ hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
 metafile = true
 
 [[files]]
+file = "mods/o123456789.pw.toml"
+hash = "05a59e8b9b7c338b96994f2a555f8f24046062b14c7cec6ef90f374ad0ed4fd9"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "de69555290a44328b84aa51aa404de093588ae36ba656a74729453fe66323f2b"
 metafile = true
@@ -636,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
 hash = "cc847dd2065c190d971c837f01b57894edd6b5ef17e7c84b4b3c146364a009ab"
+metafile = true
+
+[[files]]
+file = "mods/superb-steeds.pw.toml"
+hash = "3484c19ab6590fcef8db523fd37a877567498581ad0dd88a5274b73ba41672c3"
 metafile = true
 
 [[files]]
