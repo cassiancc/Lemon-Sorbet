@@ -118,7 +118,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "38aecb40215a678e095e385499f456430b32598706afa5fab66ff177a496b821"
+hash = "03b59bc9b4e763877c60b7500315634e2fb4c40f4706dab927fbcecda8caa92b"
 
 [[files]]
 file = "config/itemstackpromax.toml"
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/lemonade-fabric-0.1.5+1.21.1.jar"
-hash = "c88e631823ed6919822a4283ede83283456d3a70eea9273feaaf8751b9859b3c"
+hash = "adaf12321bd586da238261568da8738fa46a6d5bbaa2cf63ff048f065d740d1c"
 
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
@@ -645,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
+metafile = true
+
+[[files]]
+file = "mods/rosen.pw.toml"
+hash = "5b05da86657cb5866bd18e79cf174406f06564d0da9bfbf06379290043023769"
 metafile = true
 
 [[files]]
