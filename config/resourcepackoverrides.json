@@ -1,15 +1,48 @@
 {
 	"schema_version": "2",
 	"default_packs": [
+		"moonlight:mods_dynamic_assets",
+		"continuity:default",
+		"continuity:glass_pane_culling_fix",
 		"file/Stay_True_1.21.zip",
+		"file/Farcr's Re-Crafted V2.19.zip",
 		"file/VanillaTweaks_r903271_MC1.21.x.zip",
 		"file/Quark VRO.zip",
-		"file/mod-descriptions-v4.zip",
+		"file/mod-descriptions-v5.zip",
+		"file/visual_paintings_v1.1_1.21.X.zip",
+		"file/xali's enchanted book v1.0.0.zip",
 		"file/JavaUI.zip",
 		"file/Cool Font 4.zip",
 		"lemonade/lemon_sorbet"
 	],
 	"default_overrides": {
 		"force_compatible": true
+	},
+	"pack_overrides": {
+		"1": [
+			"fabric",
+			"continuity/default",
+			"continuity/glass_pane_culling_fix",
+			"file/Quark Programmer Art.zip",
+			"bovinesandbuttercups/no_buds",
+			"Fabrication grayscale",
+			"Fabrication",
+			"moonlight:mods_dynamic_assets"
+		],
+		"$$1": {
+			"hidden": true
+		},
+		"2": [
+			"file/VanillaTweaks_r903271_MC1.21.x.zip",
+			"file/Quark VRO.zip",
+			"file/mod-descriptions-v5.zip",
+			"file/visual_paintings_v1.1_1.21.X.zip",
+			"file/xali's enchanted book v1.0.0.zip",
+			"file/JavaUI.zip",
+			"lemonade/lemon_sorbet"
+		],
+		"$$2": {
+			"required": true
+		}
 	}
 }

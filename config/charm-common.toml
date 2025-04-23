@@ -543,7 +543,7 @@
 
 	[Wood.AzaleaWood]
 		#Azalea wood is obtainable from naturally occurring azalea trees or by growing azalea saplings.
-		Enabled = false
+		Enabled = true
 
 	[Wood.EbonyWood]
 		#Ebony is a dark wood obtainable from ebony trees that grow in savanna biomes.

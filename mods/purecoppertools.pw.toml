@@ -1,0 +1,13 @@
+name = "Pure Copper Tools"
+filename = "purecoppertools-v2.0.0-1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hUL2cjNA/versions/e1KJLvm1/purecoppertools-v2.0.0-1.21-fabric.jar"
+hash-format = "sha512"
+hash = "3bd53218f811923e1b66b7255e88830f4692e2041dad7ed80976aa3e74a5a97b05f49b6b54729597ea08055d9b47a11d95ae6ad65f60f21688bf96c8eb878d16"
+
+[update]
+[update.modrinth]
+mod-id = "hUL2cjNA"
+version = "e1KJLvm1"
