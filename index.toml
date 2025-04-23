@@ -118,7 +118,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "c34fe95f868c841609abd8cab07dd0ea995c1a5e12d5fbebe1e47d6145167242"
+hash = "f6c9650df0c1862d653efe00a8be32e0f050f39756bf02310900274356f258b3"
 
 [[files]]
 file = "config/itemstackpromax.toml"
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/lemonade-fabric-0.1.6+1.21.1.jar"
-hash = "dc3893713606a834f49acf5d54a86f449f8c9da41de6fb0c05dd66151bdb5007"
+hash = "a409e8cf6a94682d0c2b0567a24cd207325abd73a2585917af04744306b84b92"
 
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
@@ -786,6 +786,10 @@ hash = "c5fc88bdd6b5aa32ec8ffe7f4cc8f644589ee811e01ae0043fdec76ec2aafbe0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Stay_True_1.21.zip"
+hash = "35a25ed27bfd39ddf74efaabd8bd9cc17853b4f0cc44b92b039463fd59cc43d6"
+
+[[files]]
 file = "resourcepacks/VanillaTweaks_r903271_MC1.21.x.zip"
 hash = "7aa0230d89ed9e6dd489986dd2933a5dc0fcdf59cc74d6cb87e7b56be889e4cf"
 
@@ -812,11 +816,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/quark-vro.pw.toml"
 hash = "840977878aa78d7c52be23ec42bf07fc014ef72795c1290a04443cb0fc4197ab"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stay-true.pw.toml"
-hash = "dfebbcc9c67200e0ab78da4e879bd0dd3b9ae957e28f5afb65cfddc299a8d787"
 metafile = true
 
 [[files]]
