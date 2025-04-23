@@ -118,7 +118,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "03b59bc9b4e763877c60b7500315634e2fb4c40f4706dab927fbcecda8caa92b"
+hash = "c34fe95f868c841609abd8cab07dd0ea995c1a5e12d5fbebe1e47d6145167242"
 
 [[files]]
 file = "config/itemstackpromax.toml"
@@ -142,7 +142,7 @@ hash = "fd9a94837831a106e880d04a4e1128537872a17c4ca5970459658f773defbce3"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "d9a6932b52d701983840e3fc9e24ba2f4cd7ee05269adc1634c2fcfa6255dc05"
+hash = "3453c6dc6bfcaaee63a706b1c3b71a7233476c81c33ae0eedc05f1325d277d86"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
@@ -445,6 +445,10 @@ hash = "fe963141774c7990a79048fd83c8467753a16ec2b01460250321e80bdec223f7"
 metafile = true
 
 [[files]]
+file = "mods/immersiveoverlays-fabric-1.1.0+1.21.1.jar"
+hash = "dc0353c71d7c51a464b7f2f86f4154cacee321c00f07dc81f8b73fe6d5cdf5cf"
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "0117b995c692b37ded24aaa1da83cd116bc0c4dd2cf45b74c6290138a7c864cd"
 metafile = true
@@ -453,6 +457,10 @@ metafile = true
 file = "mods/inverted-tag-entries.pw.toml"
 hash = "ced9068328191496f16f24a529d376405542b866d94a9c795ddc788eeaa12e45"
 metafile = true
+
+[[files]]
+file = "mods/item-descriptions-fabric-2.2.0+1.21.1.jar"
+hash = "8a51bb663e9a3a573c5c8356186323ad14647a802377acf2511ace6f0fbd8771"
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
@@ -485,8 +493,8 @@ hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
 metafile = true
 
 [[files]]
-file = "mods/lemonade-fabric-0.1.5+1.21.1.jar"
-hash = "adaf12321bd586da238261568da8738fa46a6d5bbaa2cf63ff048f065d740d1c"
+file = "mods/lemonade-fabric-0.1.6+1.21.1.jar"
+hash = "dc3893713606a834f49acf5d54a86f449f8c9da41de6fb0c05dd66151bdb5007"
 
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
