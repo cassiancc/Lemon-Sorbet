@@ -118,7 +118,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "f6c9650df0c1862d653efe00a8be32e0f050f39756bf02310900274356f258b3"
+hash = "0406dcf4ec732c5beb82c04fdb0b1ee2d6d9cc8d47fb4c3c4eb2d97573eba4c1"
 
 [[files]]
 file = "config/itemstackpromax.toml"
@@ -143,6 +143,10 @@ hash = "fd9a94837831a106e880d04a4e1128537872a17c4ca5970459658f773defbce3"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "3453c6dc6bfcaaee63a706b1c3b71a7233476c81c33ae0eedc05f1325d277d86"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "7b5668ed7dde82036e429b837d7f9eadeb36b1f9cecde031a59b853672592ac8"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
@@ -506,8 +510,8 @@ hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
 metafile = true
 
 [[files]]
-file = "mods/lemonade-fabric-0.1.6+1.21.1.jar"
-hash = "a409e8cf6a94682d0c2b0567a24cd207325abd73a2585917af04744306b84b92"
+file = "mods/lemonade-fabric-0.1.7+1.21.1.jar"
+hash = "3490b78a156e94dbc0bbefc2ff2897649b44ea4f9e9c65d5afbc375747fbca0f"
 
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
@@ -810,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Stay_True_1.21.zip"
-hash = "35a25ed27bfd39ddf74efaabd8bd9cc17853b4f0cc44b92b039463fd59cc43d6"
+hash = "342ea71c269e7d69963e9e01b3040534c04fe9c3b8d52aec26c08e065e1cae35"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r903271_MC1.21.x.zip"
