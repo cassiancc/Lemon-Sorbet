@@ -52,6 +52,13 @@
       "Food can be a great way to quickly restore health.",
       "Take care not to run out of stamina, otherwise you'll have to wait for it to refill.",
       "Use the right tool for the job! Chopping wood with an axe is much faster than using your hands.",
-      "It's a good idea to build a place where you can safely spend the night."
+      "It's a good idea to build a place where you can safely spend the night.",
+      "Sleeping will increase the speed time passes.",
+      "Sitting near a Campfire will regenerate your health.",
+      "Copper tools are the next step from wooden tools, able to mine more durable ores.",
+      "Chains can be used to link Minecarts together.",
+      "The top of a Stove can be used to cook food like a Campfire.",
+      "A Lightning Rod can be crafted to redirect Lightning.",
+      "Copper tools will slowly oxidize over time."
     ]
   }
