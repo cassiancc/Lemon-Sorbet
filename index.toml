@@ -118,7 +118,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "0406dcf4ec732c5beb82c04fdb0b1ee2d6d9cc8d47fb4c3c4eb2d97573eba4c1"
+hash = "ecd2ca09cb78bae453f9ed547fe66790a0f412c1a6e7685225818be693da073d"
 
 [[files]]
 file = "config/itemstackpromax.toml"
@@ -146,7 +146,11 @@ hash = "3453c6dc6bfcaaee63a706b1c3b71a7233476c81c33ae0eedc05f1325d277d86"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "7b5668ed7dde82036e429b837d7f9eadeb36b1f9cecde031a59b853672592ac8"
+hash = "63d89e9122436e608d15c0b14a2729d18ef1d82158b465b490144ecb38f32fbc"
+
+[[files]]
+file = "mods/NostalgicTweaks-mc1.21.1-Fabric-2.0.0-fork-beta.904.jar"
+hash = "ba54dfd275d1008d577af8b1de6dd960090df3b2e67b8ba0ac1196f94247ba1b"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
@@ -186,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "bdaedb87300594cb776756286d7f615cba17a460e2b1e63de9f6881f44cb277e"
+metafile = true
+
+[[files]]
+file = "mods/bear-minimum.pw.toml"
+hash = "296dc7798f12bbaf99d008fcaf3a556d0240b52284c4fe41fd275538798e55f8"
 metafile = true
 
 [[files]]
@@ -458,12 +467,8 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
-hash = "fe963141774c7990a79048fd83c8467753a16ec2b01460250321e80bdec223f7"
+hash = "8f416e0c7478f85087c4bd3b11e95da32567fbd3cc667b8e76e1f7ad53ae09bf"
 metafile = true
-
-[[files]]
-file = "mods/immersiveoverlays-fabric-1.1.0+1.21.1.jar"
-hash = "dc0353c71d7c51a464b7f2f86f4154cacee321c00f07dc81f8b73fe6d5cdf5cf"
 
 [[files]]
 file = "mods/inline.pw.toml"
@@ -471,13 +476,13 @@ hash = "0117b995c692b37ded24aaa1da83cd116bc0c4dd2cf45b74c6290138a7c864cd"
 metafile = true
 
 [[files]]
+file = "mods/instantfeedback-unofficial-0.5.3+1.21.1.jar"
+hash = "ff42f90eb2bd81b6514d6c36663ab1da58f2c8b8dd368dddf99e22ade42f39f4"
+
+[[files]]
 file = "mods/inverted-tag-entries.pw.toml"
 hash = "ced9068328191496f16f24a529d376405542b866d94a9c795ddc788eeaa12e45"
 metafile = true
-
-[[files]]
-file = "mods/item-descriptions-fabric-2.2.0+1.21.1.jar"
-hash = "8a51bb663e9a3a573c5c8356186323ad14647a802377acf2511ace6f0fbd8771"
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
@@ -511,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/lemonade-fabric-0.1.7+1.21.1.jar"
-hash = "3490b78a156e94dbc0bbefc2ff2897649b44ea4f9e9c65d5afbc375747fbca0f"
+hash = "8f5e13248fa0d9959986e5b8653885d323c4d5051b71434324b215189f8dad01"
 
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
@@ -599,11 +604,6 @@ hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
 metafile = true
 
 [[files]]
-file = "mods/nostalgic-tweaks.pw.toml"
-hash = "ee92e804c6ffd6509e621421b9906efa0f654885053b1ea00c7e4a4eb55dae17"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
 metafile = true
@@ -626,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "2bc701285e80971fce00be2253984af731d3b8bd3abf8db90e18f767d52be3bb"
 metafile = true
 
 [[files]]
@@ -765,6 +770,11 @@ metafile = true
 [[files]]
 file = "mods/useful-spyglass.pw.toml"
 hash = "2bc3e01251efff5c25c7f54d8f02ca7a9e6249511c06999df322a3b8a118bd09"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "8e47f9cc479904f5b18502bb5456dd8b752fe24a497fac8f69c2154acefe2adf"
 metafile = true
 
 [[files]]

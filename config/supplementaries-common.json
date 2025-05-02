@@ -231,7 +231,7 @@
     "way_sign": {
       "enabled": true,
       "road_signs": {
-        "enabled": true,
+        "enabled": false,
         "show_distance_text": true
       }
     },
