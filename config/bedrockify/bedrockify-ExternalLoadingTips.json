@@ -5,7 +5,7 @@
       "Hold Ctrl when looking at an item in your inventory to learn more about it!",
       "Hold Ctrl when viewing a mob with a spyglass to learn more about it!",
       "Some keg recipes need heat, surround the Keg with campfires or Heating Casks to ferment.",
-      "Not a fan of your the trees near home? Dye your wood a fun new colour!",
+      "Not a fan of the trees near your home? Dye your wood a fun new colour!",
       "Ropes can be attached to fences, and can be climbed or Zipline'd down.",
       "Bundles and sacks are great ways to stay organized on the go!",
       "Enchanted Candles can be used to power Summoning Rituals.",
@@ -59,6 +59,20 @@
       "Chains can be used to link Minecarts together.",
       "The top of a Stove can be used to cook food like a Campfire.",
       "A Lightning Rod can be crafted to redirect Lightning.",
-      "Copper tools will slowly oxidize over time."
+      "Copper tools will slowly oxidize over time.",
+      "A Creaking won't move if you're looking at it.",
+      "A Creaking can only be killed by breaking its heart. Punch the Creaking to be led to the heart.",
+      "Snow Golems can be constructed from Snow Blocks and a Pumpkin. Add a Pale Pumpkin for extra spice!",
+      "Lemons can be picked from Lemon Trees. Leave the tree alive and it'll regrow more Lemons!",
+      "Avocados can be picked from Avocado Trees. Leave the tree alive and it'll regrow more Avocados!",
+      "Apples can be picked from Apple Trees. Leave the tree alive and it'll regrow more Apples!",
+      "Ovens can be used to bake various meals.",
+      "Fire Charges can be thrown to ignite faroff blocks.",
+      "Horses can be trained by riding them with a Saddle.",
+      "Saddles prevent Horses from bucking.",
+      "A hungry Black Bear may eat your crops. Build a fence to keep them out!",
+      "A hungry Brown Bear may eat your crops or livestock. Build a fence to keep them out!",
+      "A Polar Bear is a force to be reckoned with. Don't get too close!"
+
     ]
   }

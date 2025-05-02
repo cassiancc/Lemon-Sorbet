@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
-hash = "ca1e819c95664ea40fdf3507e9a49ce18535e72346241f5da6f5f2ab0382a4df"
+hash = "0bac642152f445ed081a863202db3820f8fb32b34414ca24df9c25de202847ee"
 
 [[files]]
 file = "config/bedrockify/bedrockifyClient.json"
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/cookscollection-0.5.1+refabricated.jar"
-hash = "2db383bac98bbbc35c7283dd6d5aeb329d47aa47cbe229457f09faa06aa11455"
+hash = "54966dbf82193a116edc644a665ff6810100a41a9a51064dbd1e0d79d1500787"
 
 [[files]]
 file = "mods/creeperconfetti+.pw.toml"
@@ -436,6 +436,11 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "452e592081f2880568172232127fca11ebb728d574bcefbf96d80e004e27ad45"
+metafile = true
+
+[[files]]
 file = "mods/fog.pw.toml"
 hash = "17d991a9d3adc2f923bccf4bde22e648a6964c4934a2eee2f822e67345dc96fe"
 metafile = true
@@ -477,12 +482,16 @@ metafile = true
 
 [[files]]
 file = "mods/instantfeedback-unofficial-0.5.3+1.21.1.jar"
-hash = "ff42f90eb2bd81b6514d6c36663ab1da58f2c8b8dd368dddf99e22ade42f39f4"
+hash = "4cc871ecbc905fa16a546185aab92516a6d93778f2154d61f1dac6efae1a0d3a"
 
 [[files]]
 file = "mods/inverted-tag-entries.pw.toml"
 hash = "ced9068328191496f16f24a529d376405542b866d94a9c795ddc788eeaa12e45"
 metafile = true
+
+[[files]]
+file = "mods/item-descriptions-fabric-2.2.0+1.21.1.jar"
+hash = "d0ef21618c3be70b5fd523b5a830494965b78c9ff915c929bfd4657f823d5a5c"
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
@@ -517,6 +526,10 @@ metafile = true
 [[files]]
 file = "mods/lemonade-fabric-0.1.7+1.21.1.jar"
 hash = "8f5e13248fa0d9959986e5b8653885d323c4d5051b71434324b215189f8dad01"
+
+[[files]]
+file = "mods/lemonade-fabric-0.1.8+1.21.1.jar"
+hash = "14ce8fb01a1a613f8dda6fd653fa7ee88e73b35227dc73b25cdd77294b3ca698"
 
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
@@ -581,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "0aa27cfe48f3b4a1a485e6fddeb5d806301204130ac51a1352abc10cb05ca1aa"
+metafile = true
+
+[[files]]
+file = "mods/naturally-trimmed.pw.toml"
+hash = "cfe0d66bb4500cafdc04db3d4e4c008ee418b20e15dfe4dc7fae1b1488621b1f"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Lemon Sorbet"
 author = "cassiancc"
-version = "0.1.7"
+version = "0.1.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "360c9679ba7889b195f079cfb09f1388085754c298dafe2b6afa74c2574531c1"
+hash = "0e283bcbe58321fac9325d4e612e9982379b8919e520e7c9e15e7bd89343487a"
 
 [versions]
 fabric = "0.16.13"
