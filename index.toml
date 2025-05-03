@@ -436,11 +436,6 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
-file = "mods/fish-of-thieves.pw.toml"
-hash = "452e592081f2880568172232127fca11ebb728d574bcefbf96d80e004e27ad45"
-metafile = true
-
-[[files]]
 file = "mods/fog.pw.toml"
 hash = "17d991a9d3adc2f923bccf4bde22e648a6964c4934a2eee2f822e67345dc96fe"
 metafile = true
