@@ -149,6 +149,10 @@ file = "config/supplementaries-common.json"
 hash = "63d89e9122436e608d15c0b14a2729d18ef1d82158b465b490144ecb38f32fbc"
 
 [[files]]
+file = "mods/AdditionalAdditions-Lemon-Sorbet-Fork-6.1.0.jar"
+hash = "b394263767477d6d0447532e37d816509c2f0e409dd25060b4a105e964de6065"
+
+[[files]]
 file = "mods/NostalgicTweaks-mc1.21.1-Fabric-2.0.0-fork-beta.904.jar"
 hash = "ba54dfd275d1008d577af8b1de6dd960090df3b2e67b8ba0ac1196f94247ba1b"
 
@@ -524,7 +528,7 @@ hash = "8f5e13248fa0d9959986e5b8653885d323c4d5051b71434324b215189f8dad01"
 
 [[files]]
 file = "mods/lemonade-fabric-0.1.8+1.21.1.jar"
-hash = "14ce8fb01a1a613f8dda6fd653fa7ee88e73b35227dc73b25cdd77294b3ca698"
+hash = "9d640512f1e8c4708d035c57fc477eca63ecf0425283280be659cba5e8670218"
 
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
@@ -539,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "e903d9958d442f8cbd2dd05806a85e59a7e8a7d499a0b016853b2fe90cd98615"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "e4e3d2e7fe998a93d69479ff95cc00098d1107b2cb2f703634f80d4631b682ee"
 metafile = true
 
 [[files]]
@@ -667,8 +676,8 @@ hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
 metafile = true
 
 [[files]]
-file = "mods/pyrite-fabric-0.16.0.alpha.3+1.21.1.jar"
-hash = "b4128a901b507d5ec22075a169077e13210e3519ab70b7f39814e4cd89d73138"
+file = "mods/pyrite-fabric-0.16.0.alpha.4+1.21.1.jar"
+hash = "51fc249128f7f6307e0dc9506092da934e40632c5cf3774e0f9da022749277df"
 
 [[files]]
 file = "mods/pyrite.pw.toml"

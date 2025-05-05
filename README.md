@@ -78,9 +78,11 @@ My work on this pack was inspired by my experience as both a player and develope
 ### Credits for Mod Overrides 
 These mods are not hosted on Modrinth, but do have licenses that permit distribution, and come with the pack.
 
-- <a target='_blank' href='https://modrinth.com/mod/instant-feedback'>Instant Feedback by DrexHD, using an unofficial backport by cassiancc. Both the original mod and backport are used under [MIT License](https://github.com/DrexHD/InstantFeedback/blob/1.21.5/LICENSE) </a>
+- <a target='_blank' href='https://modrinth.com/mod/addadd'>Additional Additions by dqu1j, using an unofficial 1.21.1 port by cassiancc. Both the original mod and port are used under the [LGPL 3.0 License](https://github.com/Additional-Mods/additionaladditions/blob/main/LICENSE) </a>
 
-- <a target='_blank' href='https://modrinth.com/mod/instant-feedback'>Nostalgic Tweaks by Adrenix, using an unofficial fork by cassiancc to fix compatibility issues with Fog. Both the original mod and fork are under [LGPL License](https://github.com/Adrenix/Nostalgic-Tweaks/blob/main/LICENSE.txt) </a>
+- <a target='_blank' href='https://modrinth.com/mod/instant-feedback'>Instant Feedback by DrexHD, using an unofficial 1.21.1 port by cassiancc. Both the original mod and backport are used under the [MIT License](https://github.com/DrexHD/InstantFeedback/blob/1.21.5/LICENSE) </a>
+
+- <a target='_blank' href='https://modrinth.com/mod/instant-feedback'>Nostalgic Tweaks by Adrenix, using an unofficial fork by cassiancc to fix compatibility issues with Fog. Both the original mod and fork are under the[LGPL 3.0 License](https://github.com/Adrenix/Nostalgic-Tweaks/blob/main/LICENSE.txt) </a>
 
 - <a target='_blank' href='https://www.curseforge.com/minecraft/texture-packs/stay-true'>Stay True by haimcyfly (Modpack Use Allowed)</a>
 
