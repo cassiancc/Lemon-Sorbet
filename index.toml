@@ -50,7 +50,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "da2f9c00a0b5f257dc639410dff7b818fbbe76082e29bde58a4eabdbddd0edc9"
+hash = "f9809f86b60a474596a9b677082aab9d5d7d9ef4517763d25063d6e764acfc4f"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -127,6 +127,10 @@ hash = "fbad92a74217c0d37ef9d0718ad06ca7d3fe5fc32b9dc5efc8576a0aa9f164b3"
 [[files]]
 file = "config/lemonade.json"
 hash = "ea0bf81f09c828b0284194286582204a03f95da642156cc5e7c4af5f08b48247"
+
+[[files]]
+file = "config/logbegone.json"
+hash = "8d3e327f5524c355259b5919a31170aa0b439a4936442e7513ca054ff2c348a8"
 
 [[files]]
 file = "config/mobfilter.json5"
@@ -489,12 +493,8 @@ hash = "ced9068328191496f16f24a529d376405542b866d94a9c795ddc788eeaa12e45"
 metafile = true
 
 [[files]]
-file = "mods/item-descriptions-fabric-2.2.0+1.21.1.jar"
-hash = "d0ef21618c3be70b5fd523b5a830494965b78c9ff915c929bfd4657f823d5a5c"
-
-[[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "82e3008edb502e103fe9a58b552c4112ac180634d338190ac68a517b8a9ca53c"
+hash = "c13c4cbcb5254a8617e1d3cd6936c1b298e20f35321fe91f6b4fce092a9c1ac4"
 metafile = true
 
 [[files]]
@@ -521,10 +521,6 @@ metafile = true
 file = "mods/legendary-tooltips.pw.toml"
 hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
 metafile = true
-
-[[files]]
-file = "mods/lemonade-fabric-0.1.7+1.21.1.jar"
-hash = "8f5e13248fa0d9959986e5b8653885d323c4d5051b71434324b215189f8dad01"
 
 [[files]]
 file = "mods/lemonade-fabric-0.1.8+1.21.1.jar"
@@ -588,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/more-chest-variants-lieonlion.pw.toml"
 hash = "98205cc88a2f7dd80ff812095b48fd916b6907f4a02cb8183725391fbe8d7bfa"
+metafile = true
+
+[[files]]
+file = "mods/moss-ruins.pw.toml"
+hash = "68d64480fb01064d0c53fb6f97ac0cc102f741f8e573abe2b2fc0fbd941c2b5e"
 metafile = true
 
 [[files]]
@@ -732,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/sleep-warp-updated.pw.toml"
 hash = "182afe15a756cf249744d3a55d89fe463ae2dde77956977541ecc6d9ea6cd0fb"
+metafile = true
+
+[[files]]
+file = "mods/soaring-phantoms.pw.toml"
+hash = "23b618e9ebb8a36870e1c26161724f77f174f4d928efedcb9149ca9e219e90ca"
 metafile = true
 
 [[files]]
