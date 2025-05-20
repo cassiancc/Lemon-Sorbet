@@ -859,6 +859,11 @@ file = "resourcepacks/VanillaTweaks_r903271_MC1.21.x.zip"
 hash = "7aa0230d89ed9e6dd489986dd2933a5dc0fcdf59cc74d6cb87e7b56be889e4cf"
 
 [[files]]
+file = "resourcepacks/authentic-shadows.pw.toml"
+hash = "74b39d3c7f012e9332a20ac78fa6c357b227caccd6322049fb451ff2bef08c3a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/coolfont.pw.toml"
 hash = "2adffdf6bacc2d4c50c955d46becd3cc21c019f85f958af42577d4ccad671031"
 metafile = true
