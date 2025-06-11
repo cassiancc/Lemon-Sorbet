@@ -459,6 +459,11 @@ hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
 metafile = true
 
 [[files]]
+file = "mods/gliders.pw.toml"
+hash = "1c66fbc669b7ef2716943572836ce4ded83831010368ce316ef4fdbd769ddab7"
+metafile = true
+
+[[files]]
 file = "mods/hearty-meals.pw.toml"
 hash = "11fea1ed5eec3683354c2be5fa6482d5fa681c9b5bae3b3030563ccc5351398b"
 metafile = true
@@ -476,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "8f416e0c7478f85087c4bd3b11e95da32567fbd3cc667b8e76e1f7ad53ae09bf"
+metafile = true
+
+[[files]]
+file = "mods/impenduits.pw.toml"
+hash = "c7205ef1b63344b33322c25041a547c3e148fcc51e21111a62cf8fdf7f9617f9"
 metafile = true
 
 [[files]]
@@ -662,6 +672,11 @@ hash = "df659a008602f65d693769b9c889a38cfc5c30cdae3d048d9e6397c046a7d998"
 metafile = true
 
 [[files]]
+file = "mods/ppetp.pw.toml"
+hash = "654e8b75c99f50b7c9e227eee2818fab00c686282c5e5f1ba1e33c889c7a868b"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "478cf24d75c02422619241c8b79cf938bcf94b220474eef57bcfae17f4816dd9"
 metafile = true
@@ -706,6 +721,11 @@ hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
 
 [[files]]
+file = "mods/reusable-vault-blocks.pw.toml"
+hash = "3f4b6188c8f80ffd9240a044e44f32b75275f1104bc6483f8beaee1c4da09db7"
+metafile = true
+
+[[files]]
 file = "mods/rosen.pw.toml"
 hash = "5b05da86657cb5866bd18e79cf174406f06564d0da9bfbf06379290043023769"
 metafile = true
@@ -713,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/rounded_mod.pw.toml"
 hash = "976bfd8d4cdd96995adf4fd60659eabfcecee721c83c11119ad5287d0d1ed2d2"
+metafile = true
+
+[[files]]
+file = "mods/satin-free-wakes.pw.toml"
+hash = "da82584dc5c26adafb4df9b69fa2ed710ead914ce8384058665fcfa85950f5fa"
 metafile = true
 
 [[files]]
@@ -788,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "7e80608eb4d7abb46a4c9ee5d193805caddec1afaf2da22ca227be990878f97d"
+metafile = true
+
+[[files]]
+file = "mods/toffys-hooks.pw.toml"
+hash = "860714b01d07505c74790e834a024358994e017e89b161d6b6440e8c8135733e"
 metafile = true
 
 [[files]]

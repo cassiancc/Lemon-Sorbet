@@ -1,0 +1,13 @@
+name = "Toffy's Hooks"
+filename = "toffys-hooks-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mob8nq8Z/versions/EsJcPAYa/toffys-hooks-2.0.0.jar"
+hash-format = "sha512"
+hash = "a36b3bfde4c84d91f2d5ee7972d73f8f82ed4e72b3d507b4c03155d0150a8212c24f3bb68b739e07b891014819a7b94d9ccf80103906f8307839e73a45790922"
+
+[update]
+[update.modrinth]
+mod-id = "Mob8nq8Z"
+version = "EsJcPAYa"
