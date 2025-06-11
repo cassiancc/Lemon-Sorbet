@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
-hash = "d4dc4c3b3a491ce564a1e139b5099a75d0bed824fb5770a4b2b0b350cf4ff9c0"
+hash = "4030ef46ebf2eb0396c9eb6c9f228fe6be4556be0d8632ef3d9e7d0f3c27b74a"
 metafile = true
 
 [[files]]
@@ -293,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/condensed-creative.pw.toml"
+hash = "9d58627b266db006c34c3085e9ff2bf565e013ff983e2e7fdd8ca06e6a778db7"
 metafile = true
 
 [[files]]
@@ -395,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e27ab32357a80c066e6cdfabafc87f31f778a1ebaefe03f82e38d0763de760b"
+hash = "a3642d02cf384305528c3d7ecdbdd8cd88a89156d4d1be057b9c9e5e4d8309b2"
 metafile = true
 
 [[files]]
@@ -425,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "da756fc8e9d124170b0ddfb68815335de72832f6ff973f7798765615bc867fab"
+hash = "91746d4d5c04fac84ed115445beafb62ae9381dae5606814bcc150d58da90093"
 metafile = true
 
 [[files]]
@@ -504,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "c13c4cbcb5254a8617e1d3cd6936c1b298e20f35321fe91f6b4fce092a9c1ac4"
+hash = "9539175ee63aa1a7db452b33cca13f7742c79123dbd152d5f886d08dbd7bb547"
 metafile = true
 
 [[files]]
@@ -525,11 +530,6 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "311bbb0ecc590e059723d16b79d1547cc0306df4ba97cbd9fd1ffd4dd2f67e3d"
-metafile = true
-
-[[files]]
-file = "mods/legendary-tooltips.pw.toml"
-hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
 metafile = true
 
 [[files]]
@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/ppetp.pw.toml"
-hash = "654e8b75c99f50b7c9e227eee2818fab00c686282c5e5f1ba1e33c889c7a868b"
+hash = "e44ddfd8ad9264c8cd11357b9f99803756de58631c0526afc0e6717c1c4cbadb"
 metafile = true
 
 [[files]]
@@ -692,12 +692,8 @@ hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
 metafile = true
 
 [[files]]
-file = "mods/pyrite-fabric-0.16.0.alpha.4+1.21.1.jar"
-hash = "51fc249128f7f6307e0dc9506092da934e40632c5cf3774e0f9da022749277df"
-
-[[files]]
 file = "mods/pyrite.pw.toml"
-hash = "1abd095c85ceac3cc328ecc5ac181dabed125052c0d3a5a078a0702c4f69f968"
+hash = "c3d27784bffa27810b1ed276e2c26b51803d8fda532a30b49ee9ef047f4775f9"
 metafile = true
 
 [[files]]
@@ -722,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/reusable-vault-blocks.pw.toml"
-hash = "3f4b6188c8f80ffd9240a044e44f32b75275f1104bc6483f8beaee1c4da09db7"
+hash = "78b3108ac13beeaf742ed04176b1a1d456072aaa2a32f2335870c88ff8474f6e"
 metafile = true
 
 [[files]]
