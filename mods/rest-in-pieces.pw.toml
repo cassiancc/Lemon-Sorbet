@@ -1,0 +1,13 @@
+name = "Rest in Pieces"
+filename = "rest-in-pieces-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/39WNULze/versions/bJmSh2xU/rest-in-pieces-1.0.2.jar"
+hash-format = "sha512"
+hash = "f502978b52dbdda295e485c2018b8de8485d8c8dd252ea67a7399fccacccbdd55bdc667cf2d06562ba93e3aab4a677fe7c16e9216ba92f1d90d796be03c085c7"
+
+[update]
+[update.modrinth]
+mod-id = "39WNULze"
+version = "bJmSh2xU"

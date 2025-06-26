@@ -1,13 +1,13 @@
 name = "Useful Spyglass"
-filename = "usefulspyglass-fabric-1.21.1-0.7.0.jar"
+filename = "usefulspyglass-fabric-1.21.1-0.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XwvK7Tzg/versions/d6mG0KpW/usefulspyglass-fabric-1.21.1-0.7.0.jar"
+url = "https://cdn.modrinth.com/data/XwvK7Tzg/versions/VSzkjMxP/usefulspyglass-fabric-1.21.1-0.8.0.jar"
 hash-format = "sha512"
-hash = "4c71325a50aad523422841ea6a948e05304256ff1765fcd1a0118b5bd31223998a50bfe79bcb341e03141891a592e5b910b2a5cb61dd76b367f94980b2633a83"
+hash = "2b36d7ea1ae077ca518f4c2185eb15c4dfaa8974677d3c545c67be5036f69abed52cb3fe6cbd3c1dcb803ae3c1ce4f79d842dd39a08ec8b80d0fbc0d668819b9"
 
 [update]
 [update.modrinth]
 mod-id = "XwvK7Tzg"
-version = "d6mG0KpW"
+version = "VSzkjMxP"
