@@ -1,0 +1,13 @@
+name = "BetterTooltip"
+filename = "BetterTooltip.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LWm4CU6h/versions/uBke7uXU/BetterTooltip.zip"
+hash-format = "sha512"
+hash = "edc522559c3c5690071b090b1a2ec614bdbeaf3847c87494d3275b7c0a8729d7d22ade93a19e02330c9557b155d707f6f89a9640acaa6b3ac8c518c01a3fdd33"
+
+[update]
+[update.modrinth]
+mod-id = "LWm4CU6h"
+version = "uBke7uXU"

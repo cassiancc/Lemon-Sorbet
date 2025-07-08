@@ -1,13 +1,13 @@
 name = "Default Components"
-filename = "default-components-1.0.0-alpha.7+1.21.jar"
+filename = "default-components-1.0.0+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ReIHZWEq/versions/d0NShpGQ/default-components-1.0.0-alpha.7%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/ReIHZWEq/versions/ANGIpStm/default-components-1.0.0%2B1.21.jar"
 hash-format = "sha512"
-hash = "3fe6362c7e99fb29768cc1e825a7a75a62e1ad958ef9978d0952134e3e546c84b78c2ca5983645d037ab8f7366dbc20ebf2edfdab373d4f80df76b9cb9787657"
+hash = "8962653245b5096c1ead3235640c1566e96a424d6fbc0f484d8579f2043c66b6c10f84303ada863c57f6bcdbf54423c80d6ce0593084b6a497dc061a9924b5c5"
 
 [update]
 [update.modrinth]
 mod-id = "ReIHZWEq"
-version = "d0NShpGQ"
+version = "ANGIpStm"

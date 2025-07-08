@@ -1,0 +1,7 @@
+name = "Sharper Tooltips"
+filename = "sharper-tooltips-1.0.0+1.21.4.jar"
+
+[download]
+url = "https://github.com/sylenthuntress/SharperTooltips/releases/download/release%2Fv1.0.0%2B1.21.4/sharper-tooltips-1.0.0+1.21.4.jar"
+hash-format = "sha256"
+hash = "f6c4994e25705f101816e86e84e627466d1b66275176c5ac817d162756c24218"

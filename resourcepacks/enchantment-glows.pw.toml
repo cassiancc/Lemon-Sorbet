@@ -1,0 +1,13 @@
+name = "Enchantment Glows"
+filename = "Enchantment Glows v1.3 [1.21].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3tqASqD/versions/hXNcQo2i/Enchantment%20Glows%20v1.3%20%5B1.21%5D.zip"
+hash-format = "sha512"
+hash = "3ca7903363f5d5ef49fbdf326243197065000f71260cfb5a1344150a1bc6317cb5bb6d6116fde1b1530fdf4e80d9e4b066afc2f41bfc873885169377cb727190"
+
+[update]
+[update.modrinth]
+mod-id = "m3tqASqD"
+version = "hXNcQo2i"

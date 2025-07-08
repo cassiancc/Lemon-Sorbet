@@ -1,13 +1,13 @@
 name = "Bear Minimum"
-filename = "bearminimum-fabric-1.21.1-1.0.4.jar"
+filename = "bearminimum-fabric-1.21.1-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nD7u3UoQ/versions/rLzkRQbA/bearminimum-fabric-1.21.1-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/nD7u3UoQ/versions/CmQheSrN/bearminimum-fabric-1.21.1-1.0.5.jar"
 hash-format = "sha512"
-hash = "f85ce2994db0283942df8798d89eec8ce6c1acdb002fc93cdee219bd5425143557142bff2fe4f6ea2ecad861832e08bbefbdd99ce5d4cd00bbd704d26856ddff"
+hash = "6d1966667cea6116e76e2eed29cda35ab2b61527c4d41cb7437f369b4b6a22d34a5d3aa6a10fdd65a83830fb2f86a3042c8ba7d8553d74cb6b24987e5972c670"
 
 [update]
 [update.modrinth]
 mod-id = "nD7u3UoQ"
-version = "rLzkRQbA"
+version = "CmQheSrN"
