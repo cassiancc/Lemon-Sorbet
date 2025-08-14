@@ -1,0 +1,13 @@
+name = "Crowmap"
+filename = "crowmap-1.21.1-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EAe3MQt5/versions/gMrVQcEJ/crowmap-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "e01927e571e50d812b247e0039000fefa58ce843e0185df27bde1c1b954386240035eae31551bbc554276d9c44b901cb0e5f5c532afd6c8919fbfe012d27081b"
+
+[update]
+[update.modrinth]
+mod-id = "EAe3MQt5"
+version = "gMrVQcEJ"

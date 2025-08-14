@@ -1,0 +1,13 @@
+name = "Gallant Gauntlets"
+filename = "gauntlets-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/daIJrdNd/versions/rNo3kZ5i/gauntlets-1.1.2.jar"
+hash-format = "sha512"
+hash = "e0b70a1785ecba7be04a6487c0fc8c49b64ba32919b76c13e1d96bd68a353fde37e455d2e15c8c3fd1ca25d1baac24fb4bc383ff4dc53ef407c398565dbd0266"
+
+[update]
+[update.modrinth]
+mod-id = "daIJrdNd"
+version = "rNo3kZ5i"

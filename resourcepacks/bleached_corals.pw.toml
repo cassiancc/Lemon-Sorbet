@@ -1,0 +1,13 @@
+name = "Bleached"
+filename = "bleached.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1HKHyrEL/versions/pYtdvlD3/bleached.zip"
+hash-format = "sha512"
+hash = "caf444193526537ec7aceb025cb28216b4a214edb46c2c3df47f7b805fed10b4497d0c2a73595cff565de7ec9d140b20776c5d5f028f12f143eb5054e877c2dc"
+
+[update]
+[update.modrinth]
+mod-id = "1HKHyrEL"
+version = "pYtdvlD3"

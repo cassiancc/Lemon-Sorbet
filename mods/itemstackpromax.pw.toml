@@ -1,13 +1,13 @@
 name = "ItemStackProMax"
-filename = "itemstackpromax-1.0.4-1.21.1-fabric.jar"
+filename = "itemstackpromax-1.0.5-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mRDjQkzh/versions/gag5Osb4/itemstackpromax-1.0.4-1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/mRDjQkzh/versions/EGFDqaw3/itemstackpromax-1.0.5-1.21.1.jar"
 hash-format = "sha512"
-hash = "17648627ac4de82c60dab11d4b1abd9a9558f1c56a84c903af98689b20cab304c1be58df32aee8fed33d5ef00157b9a8893cc10b84305605155563a7367e3cf6"
+hash = "29630dc96155d31efc6254953ac1c971d4071e827aeba5fafc74bd4d686071b0ded60a9edf49384ff6a3c9fd38807f5b97bae6d058aa2f94976c3be9497758b9"
 
 [update]
 [update.modrinth]
 mod-id = "mRDjQkzh"
-version = "gag5Osb4"
+version = "EGFDqaw3"

@@ -1,0 +1,13 @@
+name = "Useful Brush"
+filename = "useful-brush-0.2.2+mc1.21.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uY1F4Eo5/versions/KMJewbVO/useful-brush-0.2.2%2Bmc1.21.0.jar"
+hash-format = "sha512"
+hash = "1d6bca3d38d376ef7245d2bc3e82008bb3e4c33cf41793aeb87d966f135848d7f4dde1bca70d4363ac80fe40f2a38b67e57abf9c2325b6f591f257a3ff00cd6e"
+
+[update]
+[update.modrinth]
+mod-id = "uY1F4Eo5"
+version = "KMJewbVO"

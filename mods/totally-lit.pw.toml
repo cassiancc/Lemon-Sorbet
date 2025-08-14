@@ -1,0 +1,13 @@
+name = "Totally Lit"
+filename = "totally_lit-1.1.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hbKDMT6l/versions/PWd9pLoF/totally_lit-1.1.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "038cc861c0332b66fba63a234f4676862e117f5b9029879a1d2c8e2ae428307af4b3befd9d92e112d3433609c123057874169aad80b6b0a8f75e39f15bea5258"
+
+[update]
+[update.modrinth]
+mod-id = "hbKDMT6l"
+version = "PWd9pLoF"

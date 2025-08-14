@@ -134,9 +134,14 @@
     },
     "cannon": {
       "enabled": true,
+      "explode_tnt": "IGNITE",
       "fire_power": 0.6,
       "fuse_time": 40,
       "cooldown": 60,
+      "cannon_boat": {
+        "enabled": true,
+        "recoil_multiplier": 0.5
+      },
       "cannonball": {
         "enabled": true,
         "power_scaling": 3.5,
@@ -226,6 +231,7 @@
     },
     "globe": {
       "enabled": true,
+      "show_coordinates": true,
       "sepia_globe": true
     },
     "way_sign": {
@@ -285,7 +291,7 @@
   },
   "tools": {
     "quiver": {
-      "enabled": true,
+      "enabled": false,
       "use_without_slow": true,
       "slots": 6,
       "quiver_skeleton_spawn_chance": 0.03,
@@ -321,6 +327,7 @@
     },
     "flute": {
       "enabled": true,
+      "unbound": false,
       "unbound_radius": 64,
       "bound_distance": 64
     },
@@ -411,7 +418,6 @@
     },
     "placeable_books": {
       "enabled": true,
-      "written_books": true,
       "mixed_books": false
     },
     "zombie_horse": {
@@ -435,10 +441,13 @@
     "slimed_effect": {
       "enabled": true,
       "throwable_slimeballs": true,
-      "overlay": true,
       "hinders_jump": "NORMAL_DIFFICULTY",
       "duration": 300,
       "chance_per_slime_size": 0.15
+    },
+    "clock_and_compass": {
+      "clock_right_click": true,
+      "compass_right_click": false
     }
   }
 }

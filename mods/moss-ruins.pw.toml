@@ -3,11 +3,11 @@ filename = "moss-ruins-1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aA4qcziz/versions/S205wPWw/moss-ruins-1.3.jar"
+url = "https://cdn.modrinth.com/data/aA4qcziz/versions/i2iU4qjO/moss-ruins-1.3.jar"
 hash-format = "sha512"
-hash = "c27ff59dcacb6ccb29fa15849ddb8d0edc5e58bf0a21fb52f21531a0216da50c3bf7117fceca317438536ce0006aaff4f2759daeac87bf1f0a2ea3772a217b6b"
+hash = "beff61a7d26a4c405a1068fcbbbaa60d127bdf7ec4e3d0f92c4b5e9784c0b1c9b8ea26cf3bf41a8d5db0dae91039c5ad6e2c61eff64178f47ecf9d86a96ff432"
 
 [update]
 [update.modrinth]
 mod-id = "aA4qcziz"
-version = "S205wPWw"
+version = "i2iU4qjO"

@@ -1,0 +1,13 @@
+name = "Iridescent Star"
+filename = "Iridescent Star.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/me4thDGf/versions/4yucPRry/Iridescent%20Star.zip"
+hash-format = "sha512"
+hash = "1820986d7664964b5ba84dcebed8d722579781373e147aa5a3235ea16ce86681c98ed53eeb5bc538cb8ba60d43978a46c80c32038a9c280a9d2c0e2435f42024"
+
+[update]
+[update.modrinth]
+mod-id = "me4thDGf"
+version = "4yucPRry"

@@ -1,0 +1,13 @@
+name = "Sculk Redstone Components"
+filename = "sculk_redstone_components-1.0.3+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6u4oqJr1/versions/WHjFPyEh/sculk_redstone_components-1.0.3%2B1.21.jar"
+hash-format = "sha512"
+hash = "122d1f18b8906d96faa2d0133ced41f6e1e7ed3987185665a5d00b288eea6f85e413ddecc2b39121ebb4bb86fa5a3932cc5a0fad12be200f2965741b083626ee"
+
+[update]
+[update.modrinth]
+mod-id = "6u4oqJr1"
+version = "WHjFPyEh"
