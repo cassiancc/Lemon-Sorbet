@@ -44,7 +44,9 @@
       "Failed to fetch user properties",
       "Update available for ",
       "No Optifine!",
-      "Unknown recipe category"
+      "Unknown recipe category",
+      "has a broken icon, loading default icon",
+      "Failed to decode model definition for minecraft:items/enchanted_book.json"
     ],
     "regex": [
 

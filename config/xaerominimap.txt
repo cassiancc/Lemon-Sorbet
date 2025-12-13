@@ -4,6 +4,7 @@ settingsButton:false
 allowWrongWorldTeleportation:false
 differentiateByServerAddress:true
 debugEntityIcons:false
+minimapItemId:lemonade:atlas
 debugEntityVariantIds:false
 radarHideInvisibleEntities:true
 allowInternetAccess:true

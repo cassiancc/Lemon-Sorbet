@@ -8,11 +8,11 @@
   },
   "cauldron": {
     "enhanced_cauldron": false,
-    "crafting": true,
-    "dye_water": true,
+    "crafting": false,
+    "dye_water": false,
     "dye_recipes_per_layer": 4,
     "potion_recipes_per_layer": 2,
-    "potions_mixing": "ON",
+    "potions_mixing": "OFF",
     "potion_mixing_limit": 8,
     "inverse_potions": {
       "minecraft:unluck": "minecraft:luck",
@@ -48,8 +48,8 @@
     "hanging_pot": true
   },
   "lantern": {
-    "wall_lanterns": true,
-    "high_priority": true,
+    "wall_lanterns": false,
+    "high_priority": false,
     "mod_blacklist": [
       "bbb",
       "extlights",

@@ -1,12 +1,13 @@
 name = "O123456789"
-side = "client"
 filename = "O123456789-fabric-2.2+1.21.1.jar"
-
-[update.curseforge]
-file-id = 6301557
-project-id = 1211156
+side = "client"
 
 [download]
-mode = "metadata:curseforge"
-hash-format = "sha1"
-hash = "826e4c054d74b1ca57dc3ce1aa47e0548240edde"
+url = "https://cdn.modrinth.com/data/Mb82UnNK/versions/RWmxl4cz/O123456789-fabric-2.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5ead308b9e0383142ca84e498db9487437c7092d01b8e5855075d5a7fc0fc6836afe3c44c85b8f58a4cfc6d9da926e7b10b433ac66dc518c1cf34433b3cf2d43"
+
+[update]
+[update.modrinth]
+mod-id = "Mb82UnNK"
+version = "RWmxl4cz"

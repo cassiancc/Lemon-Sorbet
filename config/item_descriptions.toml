@@ -68,7 +68,7 @@ show_mod_name = true
 	enable = true
 	# Always show Block Descriptions, not just when a key is held.
 	# default: false
-	show_always = false
+	show_always = true
 
 [entity_descriptions]
 	# This will show Entity Descriptions in compatible mods. This can also be disabled in Jade/WTHIT's settings.
@@ -76,7 +76,7 @@ show_mod_name = true
 	enable = true
 	# Always show Entity Descriptions, not just when a key is held.
 	# default: false
-	show_always = false
+	show_always = true
 
 [enchantment_descriptions]
 	# Enable enchantment descriptions.

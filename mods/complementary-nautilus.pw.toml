@@ -1,0 +1,13 @@
+name = "Complementary Nautilus"
+filename = "nautilus-fabric-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YnXJmi7F/versions/XlCy5PbE/nautilus-fabric-1.21.1-1.4.0.jar"
+hash-format = "sha512"
+hash = "5c5bfb48d696eb3a28202799ff2f4ec23759103ce70dc8f87d92884163b7dae240212f59f13188a3951c0dbef042d8e006016ccc02e52a94f025dc884ce817d2"
+
+[update]
+[update.modrinth]
+mod-id = "YnXJmi7F"
+version = "XlCy5PbE"

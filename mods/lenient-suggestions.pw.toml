@@ -1,0 +1,13 @@
+name = "Lenient Suggestions"
+filename = "lenientsuggestions-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/e5Jhl8hD/versions/1Hj6v5Gh/lenientsuggestions-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "a94c7905de501eb38fc0cba6083b7df552dbba6f4c42590565165aa17b3ea679d95cbf0d76d93ec0b7a32e52715ec33f958fcabf3d8e9022369537d74e9846e4"
+
+[update]
+[update.modrinth]
+mod-id = "e5Jhl8hD"
+version = "1Hj6v5Gh"

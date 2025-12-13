@@ -2,6 +2,7 @@ ignoreUpdate:0
 updateNotification:false
 differentiateByServerAddress:true
 netherlikeCaveMapAllowed:true
+mapItemId:lemonade:atlas
 debug:false
 lighting:true
 colours:0

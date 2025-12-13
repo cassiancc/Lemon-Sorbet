@@ -26,7 +26,7 @@ hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
 
 [[files]]
 file = "config/amendments-common.json"
-hash = "74458b9e6872bcff2d7521f5f5c5754d9bc696c52244ebf9c57925bc1d02dd98"
+hash = "ecc9fc6d16a7ef24d33503646e1c900177312b3a430a75f546436e5b27e6a5c5"
 
 [[files]]
 file = "config/bedrockify.json"
@@ -182,11 +182,11 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/immersiveoverlays.json"
-hash = "68f0e0bb3f91490aa244363997f366c4ddd9c2ffa5228405dfabe002fbe7049c"
+hash = "88925ee93bbd6687025b5ab498076c28fc358555fe075b8f1b09117d23fe59a8"
 
 [[files]]
 file = "config/item_descriptions.toml"
-hash = "2c5da848b4ff1539c43f6d9a04cf85c381b905fc9c52de274de90b913452c4e0"
+hash = "98c558ed98975a8c08dae8bcf1e2fde1bb0e71584983e2ecc5894bfefef176ca"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -246,7 +246,7 @@ hash = "4d8c95bd2aa34cfb3084e60f97f184f02ca7ea0cbac77b32c85ed71552fe7933"
 
 [[files]]
 file = "config/logbegone.json"
-hash = "c40d86d11e4a226aea706564e1bc259f7cd888cd3a28a64ed145c22e475e28f9"
+hash = "1a44ae9c9afc40acd2c368afef7a0bb7be347d2ebf79ad777ad75395cdb34d31"
 
 [[files]]
 file = "config/mob-ai-tweaks/blacklists/allay_weapons.txt"
@@ -262,7 +262,7 @@ hash = "d4603baa859a0109878dfde24b9477104f172adeab1c7f08e2e1167caed58473"
 
 [[files]]
 file = "config/mob-ai-tweaks/general_config.txt"
-hash = "e44174e312d452cd2a2773dcb119547960ae55e8d167fef6a54177cb95c48330"
+hash = "369c4d3ddabca199b067cd8f80521570dae8efaa537fd2e5fd4cb21c2f1d5cf7"
 
 [[files]]
 file = "config/mob-ai-tweaks/ranged_mobs/mob_secondary_weapons.txt"
@@ -295,6 +295,10 @@ hash = "fd9a94837831a106e880d04a4e1128537872a17c4ca5970459658f773defbce3"
 [[files]]
 file = "config/phases-discord-rich-presence.json"
 hash = "40ba836cee88299513c8ddce15692e064fbae57b585b0354ca3045985968aeb7"
+
+[[files]]
+file = "config/preferred-gamerules.properties"
+hash = "b7e4762f55ce58841e268aa0695dd091a4c0fa4d2d2b2ea6a01316d78e6ecb21"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -330,11 +334,11 @@ hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "bdaa1957d057484da5b7bc726499a0964e5f49020964012aeb227bb3fee92136"
+hash = "088cda122ca311ce462200c96a6686599947cb9bb82837e009c75b13dd9ac550"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "4abb468b81c624629a5bc1407da7f6c0c0a010c9a81d09758aeefee1bc9ebb17"
+hash = "5d671ce0fbf89616d483e4bd96754b5dfbbb386a6b0ed8d9ea178cacf82eab0c"
 
 [[files]]
 file = "config/yosbr/config/bedrockify/bedrockify-ExternalLoadingTips.json"
@@ -413,6 +417,11 @@ hash = "3c22eaa2470d77f1ec55acdfba17a07aef9d6b3c5add762cb281613af4b589cc"
 metafile = true
 
 [[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "c6c07b0c2e1118289d736ee0f0760b8ff53f21d071305987052dc5687d03d8fb"
+metafile = true
+
+[[files]]
 file = "mods/backported-spears.pw.toml"
 hash = "d1854b9129d1f3a4fc2c0f1ae132190bb7eaa8216705186f0d8ab962092a0928"
 metafile = true
@@ -455,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/bigger_fish-1.0.4+1.21.1-fabric.jar"
 hash = "2cf6fe12b6f248c7dbab6c473424ddc153bb78fad689224682c1856899fb2135"
+
+[[files]]
+file = "mods/bovines-and-buttercups.pw.toml"
+hash = "6585398aaa1dc9d5d5a8c91d47f3b3da3390a45f435bffd6ffb6c8cdbcbe8006"
+metafile = true
 
 [[files]]
 file = "mods/breakerplacer.pw.toml"
@@ -537,6 +551,11 @@ hash = "ba31de0e6a8d0020d8557169574033b122f1c99f09882aa029a7ce6b5717795a"
 metafile = true
 
 [[files]]
+file = "mods/complementary-nautilus.pw.toml"
+hash = "47df001550265d1fede0ae1254132038a97f3abcf7e97307a78a38d75a6356f5"
+metafile = true
+
+[[files]]
 file = "mods/connected-doors.pw.toml"
 hash = "1d912783e5a27dfd863ee3228ca0f907631b7ff30c0ea6fc4764968ca1e3341a"
 metafile = true
@@ -608,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
+metafile = true
+
+[[files]]
+file = "mods/enchiridion.pw.toml"
+hash = "bc0603bee55822b2ee7352cedb60a8bd851f7634d22564dba7f078e106bffb4d"
 metafile = true
 
 [[files]]
@@ -716,11 +740,6 @@ hash = "e3969ae3c17cdb5abbb90a5377939fb99b6f123db843e17b8c7313b9be863c0e"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
-metafile = true
-
-[[files]]
 file = "mods/gliders.pw.toml"
 hash = "00c297ac149ba938cd102ce2ec50939b9bf8c64c68fe6f3b7bc9f1f168d489de"
 metafile = true
@@ -787,7 +806,12 @@ metafile = true
 
 [[files]]
 file = "mods/lemonade.pw.toml"
-hash = "63356ea80edb14c208ac7fc2f2495b270810017813f69aa6d358899d59ae3988"
+hash = "1f22f8047c2cf358f50d2752db14cb799f98c5979b94b5ffd80e4c692709d2b4"
+metafile = true
+
+[[files]]
+file = "mods/lenient-suggestions.pw.toml"
+hash = "800aa253073436731b2d94650f7547bec0c4a1f297ed464de03e9257aebd8324"
 metafile = true
 
 [[files]]
@@ -922,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/o123456789.pw.toml"
-hash = "05a59e8b9b7c338b96994f2a555f8f24046062b14c7cec6ef90f374ad0ed4fd9"
+hash = "9dc40f20e819bb8ec4c11893c1e0083f858932dcd5a57074a30000869754377a"
 metafile = true
 
 [[files]]
@@ -956,6 +980,11 @@ hash = "e44ddfd8ad9264c8cd11357b9f99803756de58631c0526afc0e6717c1c4cbadb"
 metafile = true
 
 [[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "1348184baa1f4fc4f0115889dc4c5d49d50ca53307bb55fd98fcc12008731b21"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "478cf24d75c02422619241c8b79cf938bcf94b220474eef57bcfae17f4816dd9"
 metafile = true
@@ -966,8 +995,8 @@ hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
 metafile = true
 
 [[files]]
-file = "mods/pyrite-fabric-0.17.0-beta.3+1.21.1.jar"
-hash = "c8061ae67ccb262c0fb65e66e5544a6a564a72dff55098f7292f605a58d5436d"
+file = "mods/pyrite-0.17.0-beta.5+1.21.1-fabric.jar"
+hash = "3a8c00c0254eb113745583afa5c3028aa71dfb2ef7d1819dc804d69e492c9b26"
 
 [[files]]
 file = "mods/pyrite.pw.toml"
@@ -1069,6 +1098,11 @@ hash = "487495097475b59d277ee8268149f0dca03b725479521c3dd830a37163598c2e"
 metafile = true
 
 [[files]]
+file = "mods/shearable-vines.pw.toml"
+hash = "1f88d10f53b421f85c531660b720fd45bad7fc3ee173407a718f0d572ad33d5b"
+metafile = true
+
+[[files]]
 file = "mods/sleep-warp-updated.pw.toml"
 hash = "182afe15a756cf249744d3a55d89fe463ae2dde77956977541ecc6d9ea6cd0fb"
 metafile = true
@@ -1110,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "928cc3c0b459ae9e48195e18e43f8464600583451c338868af2623fd79b6b652"
+hash = "601c45e41ccfdb15d55599bd9600343033c8cb080fe59aa05b0a208ba279155b"
 metafile = true
 
 [[files]]
@@ -1136,6 +1170,11 @@ metafile = true
 [[files]]
 file = "mods/toil-and-trouble.pw.toml"
 hash = "d0c6ae94a7fa1328a32442943d8306786145135accaac9933b6d35852da3f4b1"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "11dc9ff856643ec1c9833fb821760c86e6a0ae7fca8c31769a385549237c96c9"
 metafile = true
 
 [[files]]
