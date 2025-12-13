@@ -1,13 +1,13 @@
 name = "Toffy's Hooks"
-filename = "toffys_hooks_fabric_1.21.x_2.0.1.jar"
+filename = "toffys-hooks-fabric_1.21.x_2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Mob8nq8Z/versions/ydVMNzKd/toffys_hooks_fabric_1.21.x_2.0.1.jar"
+url = "https://cdn.modrinth.com/data/Mob8nq8Z/versions/40icjI5u/toffys-hooks-fabric_1.21.x_2.1.0.jar"
 hash-format = "sha512"
-hash = "10b528de3f5b8f195e2ce64345f887f2a4a091dbaf59419f6b6d78818e283a13b9dc1e9bc39e83cad8952f02999ce880f8e70e0d761ef5cce8237f445da1ffc2"
+hash = "7359aee81fea64ae47f018b4c66439728742f2c3b25fabb35104e73b5a285276c7112d9ed325ff27e52cdcb47f7712ccfb9517156df456047d5eee737b67f99f"
 
 [update]
 [update.modrinth]
 mod-id = "Mob8nq8Z"
-version = "ydVMNzKd"
+version = "40icjI5u"

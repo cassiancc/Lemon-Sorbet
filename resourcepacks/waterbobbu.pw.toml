@@ -1,0 +1,13 @@
+name = "WaterBobbu"
+filename = "WaterBobbu_1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zR2Fy7SU/versions/HSN8UL5R/WaterBobbu_1.1.zip"
+hash-format = "sha512"
+hash = "55f1cc98254c5f47381d4a7fde5ba495b524617c8036dfbf9e6139f30811d7b22b0a0b33e98406661efab3b99bbfe1129069b471d9d9fcc28746a09ada6f5e29"
+
+[update]
+[update.modrinth]
+mod-id = "zR2Fy7SU"
+version = "HSN8UL5R"

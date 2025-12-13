@@ -1,0 +1,13 @@
+name = "Instant Feedback for Vanilla Backport"
+filename = "instantfeedback-3.0.1+backport+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jZNYG2f2/versions/UwUc7Fnm/instantfeedback-3.0.1%2Bbackport%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "0a76ec8c3d226f3647878642689cb8973d044f9f14f92a0e132825bc9c7868b2cc78be67af24591959c13ecbe8ab17d6a3dfafefe5a7340a76334d2ad9248b2b"
+
+[update]
+[update.modrinth]
+mod-id = "jZNYG2f2"
+version = "UwUc7Fnm"

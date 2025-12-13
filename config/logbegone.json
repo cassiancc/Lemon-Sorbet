@@ -2,11 +2,49 @@
   "logbegone": {
     "phrases": [
       "Disconnecting VANILLA connection attempt",
-      "Channels "
+      "Channels ",
+      "No data fixer registered for",
+      "Exception loading blockstate definition: 'clutternomore",
+      "Registering C2S receiver with id",
+      "InvalidCredentialsException",
+      "Registering S2C receiver with id nostalgic_tweaks",
+      ", but the latter doesn't exist in registry ResourceKey",
+      "[Nostalgic Tweaks] [INFO] [Config Validator]",
+      "Unable to load model: 'clutternomore:item",
+      " Non [a-z0-9_.-] character in namespace .DS_Store",
+      "Couldn't connect to realms",
+      "Reloading ResourceManager:",
+      "This is likely due to some mod calling Sheets.getSignMaterial too early or by some wood mod not registering their wood type properly by not adding it to the vanilla texture map. Sheets.getSignMaterial is NOT Nullable, i shouldn't even have this check.",
+      "Error loading class:",
+      "Force-disabling mixin",
+      "illager_plus",
+      "Invalid path in mod resource-pack additionaladditions: additionaladditions:textures/LICENSE",
+      " Invalid path in mod resource-pack nostalgic_tweaks: nostalgic_tweaks:textures/icon/twemoji/README.md",
+      "If this is a development environment you can ignore this message",
+      "Non [a-z0-9_.-] character in namespace ._CHANGELOG.md ",
+      "Invalid frame index on sprite everycomp",
+      "Missing textures in model clutternomore:",
+      " Invalid frame index on sprite amendments:",
+      "Error loading class: org/jetbrains/annotations/ApiStatus$Internal",
+      ".DS_Store",
+      "Invalid path in mod resource-pack additionaladditions: additionaladditions:sounds/records/LICENSE, ignoring",
+      "Invalid mod icon for icon source ",
+      "emissive suffixes loaded",
+      "Missing sound for event: minecraft:item.goat_horn.play",
+      "Missing sound for event: minecraft:entity.goat.screaming.horn_break",
+      "alexsmobs",
+      "Could not authorize you against Realms server",
+      "mixins are working",
+      "0 warnings",
+      "Hello to bearminimum",
+      "InvalidCredentialsException",
+      "MinecraftClientHttpException",
+      "net.lunade.slime.render.SlimeTextures",
+      "sessionserver.mojang.com",
+      "Failed to fetch user properties"
     ],
     "regex": [
-      "Disconnecting VANILLA connection attempt",
-      "Channels "
+
     ]
   }
 }

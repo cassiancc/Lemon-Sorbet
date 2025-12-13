@@ -1,0 +1,13 @@
+name = "Sensible Stackables"
+filename = "sensible_stackables-2.1.1+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5lQcMjaC/versions/pgHVlEde/sensible_stackables-2.1.1%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "90a59b23a56fc5d700b0d94a5887ac0cf81a618b8f365ed5f3a0ba9a0d4bde50ec2621be109314fc7f703987e7d4f6bba1d652b64f630aa8f60a5ce9014496ef"
+
+[update]
+[update.modrinth]
+mod-id = "5lQcMjaC"
+version = "pgHVlEde"

@@ -1,0 +1,13 @@
+name = "Save Point"
+filename = "savepoint-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b844W4IS/versions/sZnwdbGb/savepoint-1.0.1.jar"
+hash-format = "sha512"
+hash = "003c21b2bea1c84eeb7acf7c294ce0dca059f3d8c3dbd9e43510fec4f4a410b2431ea36caf202a422b112bd109dd343391f0fe3e2cb756583bf30ee1d46ffe07"
+
+[update]
+[update.modrinth]
+mod-id = "b844W4IS"
+version = "sZnwdbGb"

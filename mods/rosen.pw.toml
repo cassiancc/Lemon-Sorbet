@@ -1,13 +1,13 @@
 name = "Rosen"
-filename = "rosen-fabric-1.21.1-1.0.1.jar"
+filename = "rosen-fabric-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JGKQQ8JK/versions/pxE5UVMF/rosen-fabric-1.21.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/JGKQQ8JK/versions/kPFw7yz4/rosen-fabric-1.21.1-1.1.0.jar"
 hash-format = "sha512"
-hash = "7c7b5a6b5afe9f2a4541eba7d83866f0b363744940815d727849d0a7ec381425502d7f677a072fb93cae2184591a3143888213f8906cbc5f6652c356f1f458d2"
+hash = "03bce1e9563950298d57d51e56c09501e5cef7753f85b6e9381fd212e95823e00bcadb3fe5ff58e8d939063ed5f7ada516de80eb2541fce15ce485eea10aed25"
 
 [update]
 [update.modrinth]
 mod-id = "JGKQQ8JK"
-version = "pxE5UVMF"
+version = "kPFw7yz4"
