@@ -1,0 +1,108 @@
+[lemonade]
+	# Whether to register modded blocks and items that will prevent vanilla players from joining.
+	# default: true
+	content = true
+	# Register custom cauldron interactions. These will not lock out vanilla players, but will not work as intended without both sides having the mod.
+	# default: true
+	cauldronInteractions = true
+	# Register default component changes. These will not lock out vanilla players, but will not work as intended without both sides having the mod.
+	# default: true
+	changeDefaultComponents = true
+	# Add particles to flying snowballs.
+	# default: true
+	thrownItemParticles = true
+	# Allow the Grindstone to be used as a workstation for lemonade:grinding recipes.
+	# default: true
+	grindstone_workstation = true
+	# Hide buttons to switch to the second page of Creative Tabs.
+	# default: true
+	hideAdditionalPages = true
+	# Items in the flammable sticks item tag can be used to start fires.
+	# default: true
+	sticks_start_fires = true
+	# Allow sticks to be placed
+	# default: true
+	stickItems = true
+	# Misc changes specifically for Lemon Sorbet. Do not enable outside of the modpack.
+	# default: false
+	lemon_zest = true
+
+[contentPacks]
+	# Serverside-only compatible changes to data and resources.
+	# default: true
+	refreshment = true
+	# World generation changes designed for Lemon Zest.
+	# default: false
+	worldgen = true
+	# Craftable enchanted books
+	# default: true
+	tomes = true
+
+[jade]
+	# default: true
+	scoping = true
+
+[vanilla]
+	# Disable templates being consumed when used for smithing.
+	# default: true
+	reusableTemplates = true
+	# Allow players to sleep through rain.
+	# default: true
+	sleepThroughRain = true
+	# Allow Piglins to Zombify in the Overworld
+	# default: false
+	piglinsZombify = false
+	# Allow Zombified Piglins to be cured.
+	# default: true
+	piglinConversion = true
+	# Allow maps to be cleaned in Cauldrons.
+	# default: true
+	clean_maps = true
+	# Allow campfires to be lit.
+	# default: false
+	campfires_start_lit = false
+	# Increase the speed of Vanilla tools.
+	# default: true
+	betterTools = true
+	# Allow Nether Portals to work
+	# default: true
+	nether_portals = false
+	# Sneaking prevents damage when walking through a Sweet Berry Bush.
+	# default: true
+	sneakingPreventsSweetBerryBushDamage = true
+	# Endermen can be bartered with.
+	# default: true
+	enderTraders = true
+	# Blast Furnaces output 2 blocks.
+	# default: true
+	betterBlasting = true
+	# Anvils no longer require experience.
+	# default: true
+	freeAnvils = true
+	# Skeletons have half their usual health.
+	# default: true
+	weakSkeletons = true
+	# Pumpkin and Melon Stems can be bone mealed to grow a full block.
+	# default: true
+	growableStems = true
+	# Items can be repaired in the inventory with a single repair item.
+	# default: true
+	cheapRepairs = true
+	# default: true
+	endPortalIsDebris = true
+
+[farmersDelight]
+	# Allow Leads to place Rope blocks.
+	# default: true
+	leadsAreRope = true
+	# Allow stoves to be lit.
+	# default: false
+	stoves_start_lit = false
+
+[gliders]
+	# Disable Lightning Strikes to Gliders.
+	# default: true
+	disableLightning = true
+	# Disable Nether Damage to Gliders.
+	# default: true
+	disableNetherDamage = true

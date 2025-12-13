@@ -41,7 +41,10 @@
       "MinecraftClientHttpException",
       "net.lunade.slime.render.SlimeTextures",
       "sessionserver.mojang.com",
-      "Failed to fetch user properties"
+      "Failed to fetch user properties",
+      "Update available for ",
+      "No Optifine!",
+      "Unknown recipe category"
     ],
     "regex": [
 

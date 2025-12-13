@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+		"supported_formats": {
+			"min_inclusive": 14,
+			"max_inclusive": 32767
+		},
+    "description": "Aesthetic Visuals - Created by Pineapple717"
+  }
+}
