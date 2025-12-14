@@ -1,0 +1,13 @@
+name = "Dominoes"
+filename = "dominoes-0.6.1+fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2iv3rshg/versions/X6lLfcVa/dominoes-0.6.1%2Bfabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "9525fd79840e29234f8d904285bcface29f1c6af94b3955c1ba40c87d7c0b0af230615122235e1f0d8980f0d30d60b3df035e6cdf03379e49f0834f3a5ac4d0f"
+
+[update]
+[update.modrinth]
+mod-id = "2iv3rshg"
+version = "X6lLfcVa"

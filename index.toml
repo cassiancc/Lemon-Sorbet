@@ -629,6 +629,11 @@ hash = "e7b3748a4ff84c69e18a5d3a1e820a6f8dc13af74d2aaa183abb4aff7e9adfaa"
 metafile = true
 
 [[files]]
+file = "mods/dominoes.pw.toml"
+hash = "2533d05d69bd75e40d2306e33469727f24879bfb775b8113d47ac3560f808afe"
+metafile = true
+
+[[files]]
 file = "mods/dyed-bundles.pw.toml"
 hash = "6c23ab056a68af420b7262d2fd27a57f81f33b373fb85fa0da08f371aa240611"
 metafile = true
