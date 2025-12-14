@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "overrides": {
+    "pigs_have_litters": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "sculk_redstone_components": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    }
+  }
+}

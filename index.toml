@@ -73,12 +73,32 @@ file = "config/chatpatches.json"
 hash = "0b22ab9f37c4c649615c8ac32a2563d02fece0fc94fc53cc6b2da86c57962d76"
 
 [[files]]
+file = "config/clutternomore/client.toml"
+hash = "830ef6a74b45de2598fb639664aa52c4491f55124c2cecb5f81755d0a77ef2f4"
+
+[[files]]
+file = "config/clutternomore/startup.toml"
+hash = "02bc50f5b6c3355ddfb3fff98f1cd1a87137f1b63bf88de0234e1d14d46ee87d"
+
+[[files]]
 file = "config/combat-control/config.toml"
 hash = "199cc7a1ac68be6ab8ab3b4db34521b267b55aa6b542dc66ed24f7234ee2e6c8"
 
 [[files]]
 file = "config/connectiblechains.toml"
 hash = "0bef6c891cfd40566044e4f39fb84405b0a6a68d25fec93b66ccecf4afe2eb03"
+
+[[files]]
+file = "config/crash_assistant/config.toml"
+hash = "6148b50ae90c7d835bf03609516b513aa1345ad9db25ed06a199e6fe2dbda30d"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "d0ae5ef2de4409e7f768bc04d4df3cd68495328be7d2c2185cc11beec39433a0"
+
+[[files]]
+file = "config/crash_assistant/problematic_mods_config.json"
+hash = "ac39420512ece55a61087db09fe6c4375aa8bd02966b78716c3e3e404938f693"
 
 [[files]]
 file = "config/customsplashscreen.json5"
@@ -95,6 +115,10 @@ hash = "412066a69288a585f9a100b4082e3d6c6cbcfd38d383b7c4799ad255fc187727"
 [[files]]
 file = "config/emi.css"
 hash = "cd840c001cb56789badda3cb318cc737e045004ea9617d24ecd65099664738f1"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "226ad5591c8fc65ffda1e9bba2b1ffb1bd0d85f3ee0b89feb2cc9035223d655e"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -186,7 +210,7 @@ hash = "88925ee93bbd6687025b5ab498076c28fc358555fe075b8f1b09117d23fe59a8"
 
 [[files]]
 file = "config/item_descriptions.toml"
-hash = "98c558ed98975a8c08dae8bcf1e2fde1bb0e71584983e2ecc5894bfefef176ca"
+hash = "86a4eb9f21510d7859a66f62e8ebf457bdb307bd79b4571ff108a53c259dc604"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -246,7 +270,7 @@ hash = "4d8c95bd2aa34cfb3084e60f97f184f02ca7ea0cbac77b32c85ed71552fe7933"
 
 [[files]]
 file = "config/logbegone.json"
-hash = "1a44ae9c9afc40acd2c368afef7a0bb7be347d2ebf79ad777ad75395cdb34d31"
+hash = "d6171b466f4b98c97d7f81863a02be17162dbf3b1ce2b36a321c2f63b59804a9"
 
 [[files]]
 file = "config/mob-ai-tweaks/blacklists/allay_weapons.txt"
@@ -437,6 +461,11 @@ hash = "b2f2254fda825a08d1d41a6dcbeada190c772fda4e06ee06c1a8e6a6c7be51f7"
 metafile = true
 
 [[files]]
+file = "mods/beam-be-gone.pw.toml"
+hash = "28d615b482f9ed8d3bb9b122c4d3604877adffb44d6607ceb6742a5ee227d259"
+metafile = true
+
+[[files]]
 file = "mods/bear-minimum.pw.toml"
 hash = "2ac419b33a034dc1d59b7d40f4add8f0a1ca3e3ba81c2f692325e4ded370af0c"
 metafile = true
@@ -573,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/cookscollection-0.5.1+refabricated.jar"
 hash = "54966dbf82193a116edc644a665ff6810100a41a9a51064dbd1e0d79d1500787"
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "25d5e10fd7023bd4d2150f790cd8d808b88706015e893757990c5671fdd45d17"
+metafile = true
 
 [[files]]
 file = "mods/creeperconfetti+.pw.toml"
@@ -760,6 +794,11 @@ hash = "8cb1da4da5375889e24a5e99882fd6f48121e0eb9f028227c84e4375aaf76381"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "e785de906915a9056bd4db06f8b143e97ef59f281820d5d627aad0768dfc046a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "86d2dc794a92e0974727cd170f6dafdbd65801d0d849a94e7fc442db44036e8c"
 metafile = true
@@ -800,13 +839,18 @@ hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "e226757905a685aa4b5a61f3d060d55a01bbd043aabd18d3e8287dd2d8ebfb7b"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "311bbb0ecc590e059723d16b79d1547cc0306df4ba97cbd9fd1ffd4dd2f67e3d"
 metafile = true
 
 [[files]]
 file = "mods/lemonade.pw.toml"
-hash = "1f22f8047c2cf358f50d2752db14cb799f98c5979b94b5ffd80e4c692709d2b4"
+hash = "596f85eec4f4fff4394fcf38c67d83adb74075d365b311add7d3c636ba9c7896"
 metafile = true
 
 [[files]]
@@ -906,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/moss-ruins.pw.toml"
-hash = "0f341e9154a4126bf1a8bb2c2f3a3ce81337aa758193844b85b5e64095b4b423"
+hash = "82354d6d5f62a65ff4add51d757dd0548ab41b5612697f3a0b3a8048409ac1f6"
 metafile = true
 
 [[files]]
@@ -921,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "49734a24baa5ee00b4a18a75b3805454f1a7a48daac59b6aba35881dbe51fc35"
+hash = "da347f526e277f429c4159a026f7faf01b9524609488de1d2e595df3139f4f38"
 metafile = true
 
 [[files]]
@@ -957,6 +1001,11 @@ metafile = true
 [[files]]
 file = "mods/phantom-tweaks.pw.toml"
 hash = "9bea090d1efa132ea668ef2ca4ddf6997ad3af04ed4341732de0001a100d518f"
+metafile = true
+
+[[files]]
+file = "mods/pigs-have-litters.pw.toml"
+hash = "dfa3f732a534b6e337733f9edf54d11f779de28e08c4f676c67eee3b9a5da16c"
 metafile = true
 
 [[files]]
@@ -1056,6 +1105,11 @@ metafile = true
 [[files]]
 file = "mods/rounded_mod.pw.toml"
 hash = "13ff90cba34f522e2f0dce36bde8a0ca487da3f7fbcffcf9e31b84efdaa78a18"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
 metafile = true
 
 [[files]]
@@ -1230,6 +1284,11 @@ metafile = true
 [[files]]
 file = "mods/wilder-flowers.pw.toml"
 hash = "fd1a01b9d98ce795258002c0179e69c537776325508fa769735c25557e427c5a"
+metafile = true
+
+[[files]]
+file = "mods/withered-hearts.pw.toml"
+hash = "d6cae12f686011c91fcb5f2e692829f2942de36f022a1688a8a0ea829eca33db"
 metafile = true
 
 [[files]]
@@ -2059,12 +2118,17 @@ file = "resourcepacks/Stay_True_1.21.zip"
 hash = "a2eab420a5c645d1e4d7b8e302446cafb27e22be71431cda3c023d5c805c42cf"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r903271_MC1.21.x.zip"
-hash = "889d536b70a1f703a5ec3fddaf9a696d3bf9cbdcfd35b3d5ca2d8252bbde6460"
+file = "resourcepacks/VanillaTweaks_r995544_MC1.21.x.zip"
+hash = "2b5e37eae1643f95dba67a129c0a7c94e8ae72e811fdd2551905b8a781a6cce9"
 
 [[files]]
 file = "resourcepacks/authentic-shadows.pw.toml"
 hash = "74b39d3c7f012e9332a20ac78fa6c357b227caccd6322049fb451ff2bef08c3a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bagels-texture-tweaks.pw.toml"
+hash = "142e7d7aaf97949dbd6f57ae3bf0098cf1ccebbe0c873079d00d3a9b225c65d9"
 metafile = true
 
 [[files]]

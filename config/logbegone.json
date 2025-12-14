@@ -46,7 +46,9 @@
       "No Optifine!",
       "Unknown recipe category",
       "has a broken icon, loading default icon",
-      "Failed to decode model definition for minecraft:items/enchanted_book.json"
+      "Failed to decode model definition for minecraft:items/enchanted_book.json",
+      " Missing textures in model bigger_fish",
+      "owo"
     ],
     "regex": [
 
