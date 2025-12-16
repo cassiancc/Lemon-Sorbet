@@ -393,7 +393,7 @@
       "enabled": true
     },
     "placeable_sticks": {
-      "sticks": true,
+      "sticks": false,
       "blaze_rods": true
     },
     "placeable_gunpowder": {

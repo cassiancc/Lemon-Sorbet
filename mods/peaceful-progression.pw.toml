@@ -1,0 +1,13 @@
+name = "Peaceful Progression"
+filename = "peaceful-progression-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s09pWwK0/versions/2Qh20BT3/peaceful-progression-1.1.0.jar"
+hash-format = "sha512"
+hash = "50ed7e21b1d1176fb4d7dc47e7196e2bb2b6585c437a2746eac8c5758537fe5d58e6ae500a40da16d7490b692684981397e861c3b3d988ab1034b9866077d7ff"
+
+[update]
+[update.modrinth]
+mod-id = "s09pWwK0"
+version = "2Qh20BT3"

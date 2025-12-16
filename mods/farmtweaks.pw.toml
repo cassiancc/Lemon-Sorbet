@@ -1,0 +1,13 @@
+name = "FarmTweaks"
+filename = "farmtweaks-1.2+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/okvumKPb/versions/kujicsVy/farmtweaks-1.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "8a31e4eb43d13413ec634212e9c4943c0a9bdb6286620ac7d3788228c8b8e5e2ea512aabb8619a257e37674d6e13954cecbb8fb9c2cde33d343a8af6396a8bff"
+
+[update]
+[update.modrinth]
+mod-id = "okvumKPb"
+version = "kujicsVy"

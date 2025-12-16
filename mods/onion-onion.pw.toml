@@ -1,0 +1,13 @@
+name = "Onion Onion"
+filename = "onion_onion-fabric-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vC6rKlKN/versions/asbTr0cJ/onion_onion-fabric-3.0.1.jar"
+hash-format = "sha512"
+hash = "9c2c17743664ad2c4b61a62af14c49433a6b466b338cd20f8b6c99fbcf8feed7890a6a36abaf9cdcffd8d464d5c6307d645b93df319928467b0c2529a082c03d"
+
+[update]
+[update.modrinth]
+mod-id = "vC6rKlKN"
+version = "asbTr0cJ"

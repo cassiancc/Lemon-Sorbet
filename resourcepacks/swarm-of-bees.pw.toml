@@ -1,0 +1,13 @@
+name = "Swarm Of Bees"
+filename = "Swarm Of Bees.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oCeyT3bA/versions/dUCK0yDe/Swarm%20Of%20Bees.zip"
+hash-format = "sha512"
+hash = "74e965f8891d255850a469fc6e8ec2761dce4c8d2803bdbcad36e5775ba996f2dde030e23cf850e618433516a339bf5654573f408fcc36188f822b77af48a112"
+
+[update]
+[update.modrinth]
+mod-id = "oCeyT3bA"
+version = "dUCK0yDe"

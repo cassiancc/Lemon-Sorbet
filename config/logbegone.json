@@ -48,7 +48,11 @@
       "has a broken icon, loading default icon",
       "Failed to decode model definition for minecraft:items/enchanted_book.json",
       " Missing textures in model bigger_fish",
-      "owo"
+      "owo",
+      "Legacy list scrolled",
+      "Registering packet cerbons_api",
+      "(YetAnotherConfigLib) Deserializing",
+      "Online mod data expired!"
     ],
     "regex": [
 

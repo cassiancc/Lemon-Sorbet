@@ -1,0 +1,13 @@
+name = "Fortunate"
+filename = "fortunate-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nTUcHK22/versions/dnztJacP/fortunate-2.0.0.jar"
+hash-format = "sha512"
+hash = "3b55764f6abf0ed96c3a6e7b0181c8b6b8a3db95f7ee2b69236415d2957695cf1a71f4fe64732564a20380b8ac0328d6b7fcd6574540966a1b6ec3c1dac5d8fe"
+
+[update]
+[update.modrinth]
+mod-id = "nTUcHK22"
+version = "dnztJacP"

@@ -1,13 +1,13 @@
 name = "Lemonade"
-filename = "lemonade-1.13.8+1.21.1.jar"
+filename = "lemonade-1.13.10+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7YkRrxLL/versions/JYxARHa6/lemonade-1.13.8%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/7YkRrxLL/versions/k8GZ5fYF/lemonade-1.13.10%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "6a7318e61a651f1dd978579f9e12bf3c0cecc0a4440b4a001ed19150861c424590c50efad47cbcfa00f29d15d051c9fa5b3b96c6cbf3869e9e241e9b68e167c8"
+hash = "9d945d4d025230f65f09a3cf56fef397d4fe34cf95f68e5ce2e315b62a35ea32f52bf54a5232d653e78bcb4f30a6fd5c690c8323fbccbf5074af0de3874328f7"
 
 [update]
 [update.modrinth]
 mod-id = "7YkRrxLL"
-version = "JYxARHa6"
+version = "k8GZ5fYF"

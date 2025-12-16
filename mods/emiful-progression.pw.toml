@@ -1,0 +1,13 @@
+name = "EMIful Progression"
+filename = "peacefulemi-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tesW4yVa/versions/N7fkyTLj/peacefulemi-1.0.0.jar"
+hash-format = "sha512"
+hash = "6031eeb5f105cf466109e801f75ebf64db16421ea2d2af241772c1b182667d69390f6ce8a9cdbf9a3456c6cc289a9641dfa9a065e00c1afc170c2d069ec7a2db"
+
+[update]
+[update.modrinth]
+mod-id = "tesW4yVa"
+version = "N7fkyTLj"
