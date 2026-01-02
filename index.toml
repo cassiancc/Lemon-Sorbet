@@ -417,12 +417,12 @@ metafile = true
 
 [[files]]
 file = "mods/always-a-bigger-fish.pw.toml"
-hash = "f00d0541df8b318e5ec954674ee4531861bd9079fbd41a6ad51d8b1ae831d080"
+hash = "70f368ad890790a48a1d2504052730a305a9cc382e4d76d1a3016e4c59da0abc"
 metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "d4838d91cd7747816ade0f2f4a46c701a53c3ef84cb278ec24e8f6fb828a85c3"
+hash = "bd58181ba57f1e8c099d57d4c752a54338e8394880d6812dd776711e620b87f4"
 metafile = true
 
 [[files]]
@@ -494,10 +494,6 @@ metafile = true
 file = "mods/betterf3.pw.toml"
 hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
-
-[[files]]
-file = "mods/bigger_fish-1.0.4+1.21.1-fabric.jar"
-hash = "2cf6fe12b6f248c7dbab6c473424ddc153bb78fad689224682c1856899fb2135"
 
 [[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
@@ -719,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "18b0f4671a506983c777a202ad638a3ea76673b7c879ac8625bd4f646bd58c47"
+hash = "a4430406a1174342e78d863ea1d00223f574a51364989364891b8d0430cc25b4"
 metafile = true
 
 [[files]]
@@ -833,8 +829,8 @@ hash = "11fea1ed5eec3683354c2be5fa6482d5fa681c9b5bae3b3030563ccc5351398b"
 metafile = true
 
 [[files]]
-file = "mods/horsebuff.pw.toml"
-hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
+file = "mods/horseman.pw.toml"
+hash = "2f7183d4f17b68da341b612d4600de14ba508ca10c42aee683949484bae5e1f5"
 metafile = true
 
 [[files]]
@@ -884,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "a0b52f37afcbc3fb607c9075af283d448735ef3918caa1293bb9483c4bc55018"
+hash = "15da2cba043da0a889765b0a4fa170d00b9b3c5a4a3564b596477de210ecb86b"
 metafile = true
 
 [[files]]
@@ -929,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "80fdbde7f3126edc00327fb276a9887f17e3ea2ff20eb27b42e891dd9514a25e"
+hash = "54f06204b9f8b975c8c3a2a0089144c1b75d9f3ebb7d388955264d01aef0950f"
 metafile = true
 
 [[files]]
@@ -1004,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7684a0cadf821b2584107f0aee56f857c9d1891bc7a88ce6396001e017fd1fee"
+hash = "73c8968e0a12b2303c59f0991290fd0d6d7ac0566299314200beed9777f0fdc8"
 metafile = true
 
 [[files]]
@@ -1035,6 +1031,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
+metafile = true
+
+[[files]]
+file = "mods/new-linked-chests.pw.toml"
+hash = "0b725f508b6894d6166ba214f554c285dba3378f7763c58a92b01d8ea10e5cef"
 metafile = true
 
 [[files]]
@@ -1098,6 +1099,11 @@ hash = "95f470ffc8438ce15d252e73a959744af3eb699cc3e8458d975b1d20759606ce"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "eb504c0cb2cf332ea461c65f93d3d7dfe8b8412c1d253e2015c5d76e6d48a559"
+metafile = true
+
+[[files]]
 file = "mods/portable-crafting.pw.toml"
 hash = "31a60af6254193358ebb0630f7cecd7bd4dc6efa6182d4a1c8354d45671edb9f"
 metafile = true
@@ -1154,6 +1160,11 @@ metafile = true
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "18753527f393c51d6296b4fd4a3b3a8bfa698b592bc47898551968d6f682e395"
+metafile = true
+
+[[files]]
+file = "mods/reliable-recipes.pw.toml"
+hash = "709ef723ed2aad96098f8f92f885ebc60bcdf0a66b14b7101fafe92406d38e6d"
 metafile = true
 
 [[files]]
@@ -1237,7 +1248,7 @@ metafile = true
 
 [[files]]
 file = "mods/soaring-phantoms.pw.toml"
-hash = "604ac675a38fd8b7b9c1164c92fe841e6c2e2d3062c76879f7d0a89ef6d9bf72"
+hash = "f0bacce3e61257ba18de41cef16afa25bdbf8dd6cffe27a4b9afe9aa2bc82239"
 metafile = true
 
 [[files]]

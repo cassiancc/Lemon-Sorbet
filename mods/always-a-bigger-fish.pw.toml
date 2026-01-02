@@ -1,13 +1,13 @@
 name = "There's Always a Bigger Fish"
-filename = "bigger_fish-fabric-1.0.1+1.21.1.jar"
+filename = "bigger_fish-1.0.4+1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tKKzcK6F/versions/vJL4oZ6M/bigger_fish-fabric-1.0.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/tKKzcK6F/versions/hOHOGUft/bigger_fish-1.0.4%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "6727219928f0d830d2443ed1a3fd3ae73502ecde5b18bca6373330c4f13952a1151e30b19ae823423a08c26dbb0a35ff936a78b7570c65dd1551eeada3dbfdb3"
+hash = "6fe117fcbb7cc7b558dee1e7a41908e2f84e0bc8b30ca6674824b8a930f5346dcb2abf8b695b50cc9cbd885b9e1c443b7618ffdfc75b00e6cfa6c5c0afaa8d23"
 
 [update]
 [update.modrinth]
 mod-id = "tKKzcK6F"
-version = "vJL4oZ6M"
+version = "hOHOGUft"
