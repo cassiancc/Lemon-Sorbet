@@ -1,13 +1,13 @@
 name = "Enchiridion"
-filename = "enchiridion-fabric-0.1.7+1.21.1.jar"
+filename = "enchiridion-fabric-0.1.8+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LXagYH7y/versions/13d7NwjX/enchiridion-fabric-0.1.7%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/LXagYH7y/versions/BQaKxwT7/enchiridion-fabric-0.1.8%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "85d471f322a4d7ecd7a3b62b5f72e159a8d8565f7ed1fa123ac8108b10757db6a4f7438e278f3c2e8f7a10b02e2d7dccdb45414f1d087c54df1e410f29b962c1"
+hash = "4623d11bf14f04e1d60d7b66631fad2204f9c548d33fc318bf38c9958cce76c5a2fa8a3ddbb7ef3e1998965a398ce9bfef2f01769bc34f6eca8c27534f1e70eb"
 
 [update]
 [update.modrinth]
 mod-id = "LXagYH7y"
-version = "13d7NwjX"
+version = "BQaKxwT7"

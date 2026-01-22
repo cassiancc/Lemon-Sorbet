@@ -114,7 +114,7 @@ hash = "412066a69288a585f9a100b4082e3d6c6cbcfd38d383b7c4799ad255fc187727"
 
 [[files]]
 file = "config/emi.css"
-hash = "cd840c001cb56789badda3cb318cc737e045004ea9617d24ecd65099664738f1"
+hash = "aacce3623f611510b06e20e90d2cbe72742a940bb17b5f0fd5b68cd3e9b8fe3b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -170,11 +170,15 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
+hash = "500216cfd24466fea346b3c5147107ffc44673990232a0e43de5f5ff1f91562d"
 
 [[files]]
 file = "config/fancymenu/customization/options_screen_layout.txt"
 hash = "4e80b67e2680007d292cf3a025bf1009a7a6f272df506c1372685ca48650d820"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "04576b543a51f1bfbdb937767ecc8ca80784a519b059b2f9a6358072512c6e7b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -190,15 +194,15 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "5e62b5925f86468a2720485f23663ca1dfdc6641fcd5f4545cb488ee621f7cbd"
+hash = "5eef535e999e3bc2e47b3e958c966713dbb04490489603bca0a653fbe0ff3e22"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
@@ -270,7 +274,7 @@ hash = "4d8c95bd2aa34cfb3084e60f97f184f02ca7ea0cbac77b32c85ed71552fe7933"
 
 [[files]]
 file = "config/logbegone.json"
-hash = "45c4fcebc4afcd0ea1af8cd86dfca7acbf3973efe33f352828dec91d623dc275"
+hash = "20df96c86c3a68732b7d0f5a7c0b1abb37168d6665a435a910a082d0e4cc4a70"
 
 [[files]]
 file = "config/mob-ai-tweaks/blacklists/allay_weapons.txt"
@@ -323,6 +327,10 @@ hash = "40ba836cee88299513c8ddce15692e064fbae57b585b0354ca3045985968aeb7"
 [[files]]
 file = "config/preferred-gamerules.properties"
 hash = "b7e4762f55ce58841e268aa0695dd091a4c0fa4d2d2b2ea6a01316d78e6ecb21"
+
+[[files]]
+file = "config/reliable_remover/removal_example.json"
+hash = "c221a4ffd1228dda4dfb46a2959e67b128ccce775fa082841e72f6779f2e5bd3"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -496,6 +504,11 @@ hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
+file = "mods/blocks-previewer.pw.toml"
+hash = "56787a2444c32a9c0674e21f490de9e09678e85151038c08bfcd59d1ab42d007"
+metafile = true
+
+[[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
 hash = "6585398aaa1dc9d5d5a8c91d47f3b3da3390a45f435bffd6ffb6c8cdbcbe8006"
 metafile = true
@@ -630,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/crowmap.pw.toml"
-hash = "599d54b82913bfdf542824f8bd9e539a1756531bcbd0eabcd62d6be38c86f0a2"
+hash = "b5335bdb93b41c45b3f685a2dc121199d2f3622f87ee5bfd4920a5e1cad9eaff"
 metafile = true
 
 [[files]]
@@ -695,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchiridion.pw.toml"
-hash = "bc0603bee55822b2ee7352cedb60a8bd851f7634d22564dba7f078e106bffb4d"
+hash = "b86202a93e9c642a21055c2dbb5ac8c6addbbe5d60468c144a0da19a3d16c7bc"
 metafile = true
 
 [[files]]
@@ -850,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
-hash = "86d2dc794a92e0974727cd170f6dafdbd65801d0d849a94e7fc442db44036e8c"
+hash = "e18831d0b39a021fadd273258caa80bc9a01f3473e8f44b1f032db3371a2c341"
 metafile = true
 
 [[files]]
@@ -860,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline-tooltips.pw.toml"
-hash = "3a087593d584607e6e6fb7078d9d819343bf682ad81443c6fd4eaa062d77213a"
+hash = "8b477e3459464730958562de4222c1f56abe8966edf3126850563390a9d1c4aa"
 metafile = true
 
 [[files]]
@@ -880,12 +893,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "15da2cba043da0a889765b0a4fa170d00b9b3c5a4a3564b596477de210ecb86b"
-metafile = true
-
-[[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
+hash = "98a20214da5430fde6aefe553ce67e5d7f4711ffcd66d1575ea5a2261845d1d8"
 metafile = true
 
 [[files]]
@@ -905,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/lemonade.pw.toml"
-hash = "c0fc1ffa531b383a570c3e6cfeee79d177851ae02ae86d96b47b95843611af9a"
+hash = "4c34fe7a91ceae069dd2d5ba9087b1ffdb78067de8f83f130b83a512f0aa29b5"
 metafile = true
 
 [[files]]
@@ -950,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcqoy.pw.toml"
-hash = "cc43f113dffb7f6b4a93b8f7603d59c0ab113fd6a211224bb87938ba68be72a4"
+hash = "21e7b044769bec86617cb335296c1ab8c44b2ff374a8c3b214fea8e23466786b"
 metafile = true
 
 [[files]]
@@ -1079,6 +1087,11 @@ hash = "9bea090d1efa132ea668ef2ca4ddf6997ad3af04ed4341732de0001a100d518f"
 metafile = true
 
 [[files]]
+file = "mods/picture-mode.pw.toml"
+hash = "6ca384619bce6a310735bb6219e8810d25cb7e18291f4b5533fe8deb85303092"
+metafile = true
+
+[[files]]
 file = "mods/pigs-have-litters.pw.toml"
 hash = "dfa3f732a534b6e337733f9edf54d11f779de28e08c4f676c67eee3b9a5da16c"
 metafile = true
@@ -1100,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "eb504c0cb2cf332ea461c65f93d3d7dfe8b8412c1d253e2015c5d76e6d48a559"
+hash = "2b43dd7f21cccb1e342c3e3a0dbfbb0fb90001340e8ac78f9ab0df5752225c68"
 metafile = true
 
 [[files]]
@@ -1129,8 +1142,8 @@ hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
 metafile = true
 
 [[files]]
-file = "mods/pyrite-0.17.0-beta.7+1.21.1-fabric.jar"
-hash = "7dd23d20f190d46a435167a09a9646257baa638b945c24618e966b46e3b3b31d"
+file = "mods/pyrite-0.17.0-beta.8+1.21.1-fabric.jar"
+hash = "d617f87200fa2e578c64d8f9b0e267e03dae953c2e971c106eff5a5027af4940"
 
 [[files]]
 file = "mods/pyrite.pw.toml"
@@ -1168,6 +1181,11 @@ hash = "709ef723ed2aad96098f8f92f885ebc60bcdf0a66b14b7101fafe92406d38e6d"
 metafile = true
 
 [[files]]
+file = "mods/reliable-remover.pw.toml"
+hash = "96fbb315247b4b641aec5c3424b3769d61322fdd1c8f767aa4d829e9817014fb"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
@@ -1191,6 +1209,10 @@ metafile = true
 file = "mods/rosen.pw.toml"
 hash = "252f4d2322450ffa77be811a4ba930e14838e9ab9e03fd19b5e5dd15c3e0e680"
 metafile = true
+
+[[files]]
+file = "mods/rotation-locker-1.0.0+1.21.1.jar"
+hash = "ff0fd7a0c40551154739cdcab74623d78e6a50b44e4c63418aa0fbee2ef5adc9"
 
 [[files]]
 file = "mods/rounded_mod.pw.toml"
@@ -1423,7 +1445,7 @@ metafile = true
 
 [[files]]
 file = "mods/zipline.pw.toml"
-hash = "c5fc88bdd6b5aa32ec8ffe7f4cc8f644589ee811e01ae0043fdec76ec2aafbe0"
+hash = "1deb99e4f849cfe816c340571b5e75ac7cd236da70653bb965dbd577999fb323"
 metafile = true
 
 [[files]]
@@ -2269,6 +2291,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/swarm-of-bees.pw.toml"
 hash = "956d385468e064df441b13f36ea33dccd7125450990d354175651796f0324a50"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-effects-plus.pw.toml"
+hash = "ab1ca40f37cf709d680ba1a47e4fa8d9edda3f2945ac2986cabc7f3cc46d396f"
 metafile = true
 
 [[files]]

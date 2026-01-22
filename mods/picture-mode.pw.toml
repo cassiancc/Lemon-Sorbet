@@ -1,0 +1,13 @@
+name = "Picture Mode"
+filename = "picturemode-fabric-1.0.4+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kFU5UCQz/versions/CuusFNOW/picturemode-fabric-1.0.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "19eda1d69028b14b7bf00b2370769827512076928f3a03bdbef9b1f86cc0cba3284eed4c5d90a2a3ec0d949bcacbe2c219f4b258383207af3db6887aa82baf91"
+
+[update]
+[update.modrinth]
+mod-id = "kFU5UCQz"
+version = "CuusFNOW"

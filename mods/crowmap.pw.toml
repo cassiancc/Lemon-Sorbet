@@ -1,13 +1,13 @@
 name = "Crowmap"
-filename = "crowmap-1.21.1-fabric-2025.11.13.jar"
+filename = "crowmap-1.21.1-fabric-2025.12.23.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EAe3MQt5/versions/OvrrNdss/crowmap-1.21.1-fabric-2025.11.13.jar"
+url = "https://cdn.modrinth.com/data/EAe3MQt5/versions/8GyNXlZn/crowmap-1.21.1-fabric-2025.12.23.jar"
 hash-format = "sha512"
-hash = "eeafb4239224e9d2db835d871d2f9ef90fb868b0c755134263c7ade80e73fc611b350236184469a3c0bcf979340d07cbe77f44cb856c97bb0743a7055d39c28d"
+hash = "1a4f66e1aefb2bffaeb66220633d3924bf78959463a65072059da175bfa8f9b6a87cab3dc8c3fe3cdb059e577c81f8b34557635bc82589277a03215efba64261"
 
 [update]
 [update.modrinth]
 mod-id = "EAe3MQt5"
-version = "OvrrNdss"
+version = "8GyNXlZn"
